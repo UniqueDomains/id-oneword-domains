@@ -3767,7 +3767,6 @@ a9a5c67c-8b3b-47e0-8e40-1839bd806bae,televisionprogram.id,available,70,1,18,,,
 8e0f649e-9220-4391-aa40-897572cf4284,temperature.id,available,,9,11,,,
 3e523d82-1eaa-448c-9049-cea7f8979dcd,TempleCity.id,available,,2,11,,,
 73ac229b-8e33-48d6-82e2-a6561f4ccde3,temporary.id,available,78,15,9,,,
-da1c7eca-5f59-480d-8d40-2ea1cf0417ea,ten.id,available,88,99,3,,,
 26d60bbc-941c-4e9b-a7c0-3875eba8b9d7,tenner.id,available,66,97,6,,,
 b0fe975c-441f-411e-aea8-2b8d492cb83c,tentative.id,available,81,3,9,,,
 19ba3a5a-c680-4a0d-bf53-2e00d6098084,tentbed.id,available,72,1,8,,,
@@ -4032,7 +4031,7 @@ eaf20bfc-5033-473e-9810-c6e2363f5a09,unhappy.id,available,100,4,7,,,
 177e931e-5381-4220-be27-38174356f7f5,union.id,resell,90,33,5,PT Web Commerce Communications,14/09/2017 06:41,14/09/2026 23:59
 c40ca7a0-a095-4690-be75-77909bef97a0,UnionCity.id,available,,5,10,,,
 d7cbb464-8ff9-4330-8e11-eb161587fcb0,unique.id,resell,104,36,6,PT Jagat Informasi Solusi (int),02/11/2023 00:40,02/11/2026 23:59
-cb40fb29-d38a-4b8d-822c-fb324fe3f1a5,unity.id,resell,70,98,5,PT Jagat Informasi Solusi (int),17/03/2022 00:41,17/03/2026 23:59
+cb40fb29-d38a-4b8d-822c-fb324fe3f1a5,unity.id,resell,70,41,5,PT Jagat Informasi Solusi (int),17/03/2022 08:41,18/03/2026 07:59
 f21fbf73-e33d-4c67-ac49-4a0d7fc66003,universally.id,available,62,2,11,,,
 ca4b840a-ec66-4acc-8af5-133ecc34c446,universe.id,resell,74,29,8,PT Jagat Informasi Solusi (int),18/06/2021 00:12,18/06/2026 23:59
 27c300ab-3255-4506-ba7a-50a366147a6b,unjustified.id,available,54,1,11,,,
