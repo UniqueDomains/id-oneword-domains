@@ -444,7 +444,7 @@ d7866468-4257-4da1-916e-9a07c67ebfaf,blanket.id,available,100,97,7,,,
 7c0679ab-a573-4d93-997b-76bce1375511,blink.id,resell,80,98,5,PT Digital Registra Indonesia,24/09/2025 01:04,24/09/2026 23:59
 1b19413e-2c0f-45bb-8efe-1d573522cea7,blob.id,available,60,22,4,,,
 652f6af8-c7d9-4139-b7c4-32877bdcd26a,blockade.id,available,76,5,8,,,
-0feb23bc-58b2-40c9-8032-33d34262e9d5,blond.id,available,68,6,5,,,
+0feb23bc-58b2-40c9-8032-33d34262e9d5,blond.id,available,68,97,5,,,
 6bdcff14-6931-4eb6-97a8-2258736b1d6e,blood.id,resell,78,18,5,PT Jetcoms Netindo,17/07/2017 10:16,17/07/2026 23:59
 c9f93bcd-218f-40c2-adfd-91dbf979e63c,bloodclot.id,available,52,2,10,,,
 4a2edb45-3703-4f4d-99e0-c563a9fb6177,blooddonation.id,available,82,2,14,,,
@@ -454,18 +454,18 @@ e9ef818a-e5d0-4824-b5f0-e63e66551295,bloodpressure.id,available,74,6,14,,,
 669ff73b-0c97-41df-9b5f-4672a78db046,bloodstream.id,available,66,3,11,,,
 ac070305-8da6-496e-b112-844109642b2c,bloodtyping.id,available,70,1,12,,,
 e42b60c7-6c62-4dbc-9395-9569fb1da2ec,bloody.id,available,110,97,6,,,
-ba3e7341-9a4b-4e24-a265-b0b09fe48167,bloom.id,resell,72,43,5,PT Jagat Informasi Solusi (int),19/11/2019 05:52,19/11/2026 23:59
+ba3e7341-9a4b-4e24-a265-b0b09fe48167,bloom.id,resell,72,99,5,PT Jagat Informasi Solusi (int),19/11/2019 05:52,19/11/2026 23:59
 f6494d10-a45d-4760-9da6-ce0aef396bf3,blossom.id,resell,76,25,7,PT Jagat Informasi Solusi (int),04/07/2022 00:44,04/07/2026 23:59
-196e2e1e-47e9-40dc-8ab7-7e2348e0e159,blow.id,available,58,12,4,,,
+196e2e1e-47e9-40dc-8ab7-7e2348e0e159,blow.id,available,58,98,4,,,
 13342bcf-416a-4810-803c-d4a216cee25d,blowout.id,available,80,5,7,,,
 eb142e56-fabf-4219-a09c-8674dbb58452,blue.id,resell,92,99,4,PT Jetcoms Netindo,18/07/2017 07:19,18/07/2026 23:59
 9c072c21-fe20-4f8f-8013-bdbcebd6170c,blueberrypie.id,available,64,1,13,,,
 3a430ebe-8c2d-423c-9341-c53dd8436e60,bluecheese.id,available,74,2,11,,,
-c065bd0b-5958-4487-9613-0e4fec9d8cff,bluegreen.id,available,86,11,10,,,
-dc1eb414-730a-47df-a689-5261b2195aeb,blueish.id,available,72,4,7,,,
+c065bd0b-5958-4487-9613-0e4fec9d8cff,bluegreen.id,available,86,97,10,,,
+dc1eb414-730a-47df-a689-5261b2195aeb,blueish.id,available,72,97,7,,,
 02d6de70-e6cc-4ded-8866-75b69b334d20,blueraspberry.id,available,74,1,14,,,
 91108255-5009-4c07-af65-0e616ae78dce,Bluetooth.id,available,92,10,9,,,
-a4302001-d602-45c1-a33c-e793c6a8cf63,blurry.id,available,62,6,6,,,
+a4302001-d602-45c1-a33c-e793c6a8cf63,blurry.id,available,62,97,6,,,
 5b4f6045-7591-4573-b0c2-3854b998b252,boards.id,available,64,13,6,,,
 1fad52a9-bc98-41ef-b88b-d61b0a2f4cb9,boattrip.id,available,74,2,9,,,
 3d39e0de-4df4-4d90-aec5-91e678619869,bodycavity.id,available,62,1,11,,,
@@ -477,21 +477,21 @@ b7272068-6944-4c06-ae9b-14181c1b99e1,boo.id,available,100,23,3,,,
 79ab8167-76c1-4e3d-8a8e-b64b6272c495,booklist.id,resell,70,5,8,PT Media Cloud Indonesia,29/09/2025 01:09,29/09/2026 23:59
 f2a3e0b0-04a1-4366-a479-58f3b2cc9a90,boomorbust.id,available,78,2,12,,,
 cd4190cf-8931-40d6-9a1f-cc59d79a9c64,boot.id,available,72,21,4,,,
-8b8425b2-3314-4b08-8d9a-e3a5774b5fd7,booted.id,available,66,2,6,,,
+8b8425b2-3314-4b08-8d9a-e3a5774b5fd7,booted.id,available,66,97,6,,,
 dded0d46-6c87-4618-b573-31c6362c224e,bootleg.id,available,100,97,7,,,
-67c8d573-ca68-4da2-adda-ac6fd26075a6,border.id,resell,68,12,6,PT Jagat Informasi Solusi (int),24/04/2023 00:15,24/04/2027 23:59
-6e6b1337-15b5-4cfe-adf3-2d7d56697534,bordered.id,available,62,1,8,,,
-61238898-230d-4fab-b629-84640fa4f666,borderline.id,available,104,11,10,,,
+67c8d573-ca68-4da2-adda-ac6fd26075a6,border.id,resell,68,97,6,PT Jagat Informasi Solusi (int),24/04/2023 00:15,24/04/2027 23:59
+6e6b1337-15b5-4cfe-adf3-2d7d56697534,bordered.id,available,62,97,8,,,
+61238898-230d-4fab-b629-84640fa4f666,borderline.id,available,104,97,10,,,
 afd40cdb-36d7-4f2c-8349-af4ffa9765d4,borderon.id,available,66,1,9,,,
 b2a6745f-1450-4f6c-a507-f24c115130e8,bore.id,available,82,8,4,,,
-d9f5afb3-38fc-48fa-9c42-28bead6dc9e5,born.id,resell,116,16,4,PT Digital Registra Indonesia,10/03/2021 00:55,10/03/2026 23:59
+d9f5afb3-38fc-48fa-9c42-28bead6dc9e5,born.id,resell,116,98,4,PT Digital Registra Indonesia,10/03/2021 00:55,10/03/2026 23:59
 158d5fff-4a12-409a-b612-ac8a6cacfc71,bornyesterday.id,available,48,2,14,,,
 57d61c91-e8ba-4be8-a0ec-aae8a50c855d,borrow.id,resell,66,11,6,PT Jagat Informasi Solusi (int),07/07/2021 16:55,07/07/2026 23:59
-48551f7e-70be-44c9-8c25-4ddfd2fd4604,boss.id,resell,76,31,4,PT Jagat Informasi Solusi (int),07/08/2015 02:33,07/08/2027 23:59
+48551f7e-70be-44c9-8c25-4ddfd2fd4604,boss.id,resell,76,99,4,PT Jagat Informasi Solusi (int),07/08/2015 02:33,07/08/2027 23:59
 33329a9c-8f80-4a36-83c4-9b370422e577,boston.id,resell,80,29,6,PT Jagat Informasi Solusi (int),09/11/2022 00:01,09/11/2027 23:59
 95c84dca-68ce-4459-b1b6-c88430c68ede,both.id,available,80,11,4,,,
-b78443ee-ab1a-49b5-b508-307742fbe0f3,bouncy.id,available,72,6,6,,,
-424491b5-2c38-4a30-bff5-e36506653fa3,bow.id,available,80,13,3,,,
+b78443ee-ab1a-49b5-b508-307742fbe0f3,bouncy.id,available,72,97,6,,,
+424491b5-2c38-4a30-bff5-e36506653fa3,bow.id,available,80,98,3,,,
 6e530528-1a90-4a14-a568-8b1029a2edaf,bowlofcherries.id,available,72,2,16,,,
 777f005d-7fe9-427b-b839-d4a95630fe92,bowls.id,available,60,6,5,,,
 012e9efb-f6c2-469f-83dd-8a756c95002c,bowout.id,available,72,1,7,,,
@@ -544,11 +544,11 @@ b8ab329e-cb45-45da-8b14-ff502bd11fbd,bucket.id,resell,62,16,6,PT Jagat Informasi
 082642ef-0ef9-497c-93ba-eddbcef0f81c,bucketlist.id,available,76,21,11,,,
 682e8320-1f40-41a8-9940-031fa1c44bde,bud.id,available,70,23,3,,,
 48ccb53a-04a8-4b56-b75a-2a09492d98c7,buffer.id,resell,98,14,6,PT Jagat Informasi Solusi (int),15/01/2022 10:05,15/01/2026 23:59
-9e94fb8e-0942-4662-8fd9-5a7baf53d7ff,buffet.id,available,103,9,6,,,
+9e94fb8e-0942-4662-8fd9-5a7baf53d7ff,buffet.id,available,103,98,6,,,
 d5a30295-6c71-49f7-8a03-85aa57d707ff,bug.id,available,76,28,3,,,
-c56bf8c8-cb0d-4f31-8a4a-78ebe13c830b,bugged.id,available,56,3,6,,,
+c56bf8c8-cb0d-4f31-8a4a-78ebe13c830b,bugged.id,available,56,97,6,,,
 65bf1b85-fb99-4e2d-8c2c-32c0d2d86ac5,buggy.id,available,84,98,5,,,
-91c812ac-3f60-4d04-ae37-6d80da827d93,builtin.id,available,91,7,8,,,
+91c812ac-3f60-4d04-ae37-6d80da827d93,builtin.id,available,91,97,8,,,
 e079212c-be3d-4750-8c2c-493420bf996a,bulb.id,available,90,13,4,,,
 50697301-8be7-4598-a1a8-05902c6ada91,bulk.id,available,110,19,4,,,
 43e6ef67-f1ff-44b7-a017-af291b7e8338,bull.id,available,62,23,4,,,
@@ -569,7 +569,7 @@ f38c9dfd-3e7d-4f11-8ffc-0a9e05bd05a2,bulletinboard.id,available,66,5,14,,,
 0bb63805-6f1c-49d9-ad32-a554804e29fe,businessman.id,available,70,8,11,,,
 a8ed6a84-f21e-423a-86f7-c1363839825f,businesstrip.id,available,74,3,13,,,
 768c1384-9cc7-476c-97d5-a1fa5a81d86e,businessventure.id,available,76,1,16,,,
-00c48269-0577-4adc-aff1-a743faba3717,bust.id,available,102,7,4,,,
+00c48269-0577-4adc-aff1-a743faba3717,bust.id,available,102,98,4,,,
 c76c996a-e39f-4e47-af19-4e651f8a2bcc,busted.id,available,56,9,6,,,
 679e29d3-36af-40b0-8fa2-35f12392d9b8,buster.id,available,62,11,6,,,
 b06a77bc-7a27-4d28-99a8-650bbe1fcbbc,busy.id,available,108,20,4,,,
@@ -926,7 +926,7 @@ bcdacde2-38fa-4a6c-a4e5-67de009a54ff,cowboy.id,resell,98,21,6,PT Registrasi Nama
 5595f2f2-1801-4842-89e3-3215738fa35f,crafty.id,resell,68,15,6,PT Jagat Informasi Solusi (int),24/06/2022 00:37,24/06/2026 23:59
 c45aa883-97f7-4b69-8f12-bc3a187f0897,crap.id,available,56,16,4,,,
 a56ca5b4-9e8e-47ce-a3dc-fe0a3ff4f7e8,crash.id,available,98,27,5,,,
-a1833cd6-dbc0-4806-b74c-83997daa3365,crazy.id,resell,86,23,5,PT Jagat Informasi Solusi (int),01/10/2023 00:26,01/10/2026 23:59
+a1833cd6-dbc0-4806-b74c-83997daa3365,crazy.id,resell,86,98,5,PT Jagat Informasi Solusi (int),01/10/2023 00:26,01/10/2026 23:59
 70b641e3-ab38-4c15-9c71-dc3956107ef1,cream.id,resell,110,21,5,PT Jagat Informasi Solusi (int),01/06/2022 01:34,01/06/2026 23:59
 bc48f887-e936-4ef4-ba0a-3647e236e8dc,created.id,available,60,15,7,,,
 101d93e2-569b-4631-88fc-b2d1ad832632,creatively.id,available,66,4,10,,,
@@ -1104,7 +1104,7 @@ bd7c2bf9-a891-42bd-93f9-cfcf31d71bf9,divert.id,available,70,7,6,,,
 263a4e38-f3ea-496b-8f83-dd159294fed9,division.id,available,66,14,8,,,
 11c6b626-671a-473b-9349-b0943a5394d5,DJIA.id,available,68,4,4,,,
 3dad70ce-c112-4b96-8290-bb5420731469,dna.id,resell,78,44,3,PT Jagat Informasi Solusi (int),06/02/2019 04:01,06/02/2026 23:59
-0ed6162d-f31b-4773-bc3c-16777d4c83a4,dock.id,available,70,17,4,,,
+0ed6162d-f31b-4773-bc3c-16777d4c83a4,dock.id,available,70,99,4,,,
 88ffa4c9-c67d-4d75-9f30-baaed27d4096,documentation.id,available,66,12,13,,,
 dfc96cd5-66db-42e3-884c-907c0e5dac5c,documented.id,available,66,97,10,,,
 572f9e6e-054b-456f-91ea-e26d2dcfb2b4,dogshot.id,available,76,1,8,,,
@@ -1304,7 +1304,7 @@ b7e71c53-8b1f-44ce-b6cf-fd178247823c,facilitate.id,available,74,10,10,,,
 26fd81b0-d4f2-45ad-921a-d151bd0e76d6,fact.id,available,78,22,4,,,
 efaf476e-848e-44e4-8f45-02debde7c0b8,fail.id,available,54,19,4,,,
 89bb5c46-e8c0-4298-939e-1ff959d0bcc2,failedstate.id,available,54,2,12,,,
-dbd1cd3a-9dfe-4635-ab36-eebf7fc654a5,fair.id,available,106,29,4,,,
+dbd1cd3a-9dfe-4635-ab36-eebf7fc654a5,fair.id,available,106,99,4,,,
 900e5945-17b8-46df-888b-efaa8344edfe,Fairs.id,available,70,5,5,,,
 fe3dfb7f-1ee3-4731-b124-4ebe55e87c66,faith.id,resell,78,29,5,PT Registrasi Nama Domain,05/06/2017 07:25,05/06/2026 23:59
 45b14c74-8a2b-4c2d-af87-d85eabcfc5be,fall.id,available,68,14,4,,,
@@ -1425,11 +1425,11 @@ c9563f35-6e85-412d-8247-a9e913d560dc,foot.id,available,66,15,4,,,
 b505f26b-fcad-459c-843d-433504ae599a,force.id,resell,72,20,5,PT Registrasi Nama Domain,23/08/2020 00:14,23/08/2026 23:59
 dbb12fdc-3447-4704-8821-92dca10a0653,ford.id,resell,82,18,4,PT Cloud Hosting Indonesia,24/06/2018 01:58,24/06/2026 23:59
 da2a9928-2f14-48b8-9a4f-204750c0b891,forehead.id,available,70,3,8,,,
-7c6e565b-f5fd-4e5a-9f7e-5f27138c89fa,foreman.id,available,62,9,7,,,
+7c6e565b-f5fd-4e5a-9f7e-5f27138c89fa,foreman.id,available,62,97,7,,,
 7ad35ef2-0e48-4f56-b9ed-88f69952140b,forestfire.id,available,58,5,11,,,
 4ae2ec47-e870-4b64-8866-2b3548207022,forge.id,resell,62,32,5,PT Jagat Informasi Solusi (int),22/01/2022 00:18,22/01/2026 23:59
 cee5da0c-bef6-47c9-9104-c02483fbaf4f,forget.id,available,54,9,6,,,
-a824d718-8831-4aa5-9bdd-a23cf4d64c00,fork.id,available,94,20,4,,,
+a824d718-8831-4aa5-9bdd-a23cf4d64c00,fork.id,available,94,99,4,,,
 c0dc179f-d2e9-4d9d-8482-be28c7d577df,formal.id,resell,94,10,6,PT Digital Registra Indonesia,17/03/2019 12:54,17/03/2026 23:59
 0b3b5aec-2576-4df1-b48c-cf21f8038e22,formalise.id,available,74,2,9,,,
 e04c63b6-59f0-4fd5-88d5-7c2939329e00,formalize.id,available,74,2,9,,,
@@ -1494,7 +1494,7 @@ e2b5484a-c544-4008-a3c2-f17e675081ef,gag.id,resell,88,14,3,PANDI Registrar,17/02
 b1493345-8845-47d9-bad1-2c7a13b4a119,gaslighting.id,available,64,4,12,,,
 8d9b84f4-25df-4681-8165-dd072a6e3528,gaspowered.id,available,60,2,11,,,
 3aca55f1-10eb-4e9c-81cb-18128ddc0159,gasstation.id,available,68,7,11,,,
-beba67e6-5101-469f-a666-f8d25621f56f,gay.id,available,122,33,3,,,
+beba67e6-5101-469f-a666-f8d25621f56f,gay.id,available,122,99,3,,,
 dd812d35-e133-4e59-b11d-89425e50765d,gaydog.id,available,66,3,7,,,
 bb10f425-4e19-4c71-8c42-8fdf2187fb21,gearchange.id,available,70,2,11,,,
 53619c83-6408-4fd3-92af-6b697ec5fc62,gelpen.id,available,82,1,7,,,
@@ -2186,7 +2186,7 @@ b98d0079-6919-41fb-9811-cabb9a7bc4bb,leading.id,resell,102,15,7,PT Registrasi Na
 f9f0e676-3423-4ac8-a9a1-6e35a4af0404,leaf.id,available,92,31,4,,,
 72bd9d81-c552-4d0e-a389-f9b1baf9780b,league.id,resell,68,24,6,PT Registrasi Nama Domain,17/08/2018 13:19,17/08/2026 23:59
 6f8e5378-3b2b-48d5-8abe-f7500bd980e4,leak.id,available,58,17,4,,,
-9849ec29-8165-4ee2-813e-42a6c3db6203,leap.id,available,76,33,4,,,
+9849ec29-8165-4ee2-813e-42a6c3db6203,leap.id,available,76,99,4,,,
 737929cf-25f5-4759-877f-addd64def5a6,leasing.id,resell,70,23,7,PT Aksara Data Digital,04/06/2019 00:42,04/06/2026 23:59
 55de5c77-55dd-4ff5-8a99-8e4e96c15ba6,leather.id,resell,64,16,7,PT Aksara Data Digital,17/05/2019 15:30,17/05/2026 23:59
 ccfa6412-9fb3-4253-bdd9-51b7e6b61ab3,leave.id,available,96,12,5,,,
@@ -2254,7 +2254,7 @@ e5d3924a-68d7-45ef-ae04-4e26aac75383,likehell.id,available,40,1,9,,,
 28ae6899-6f46-4c78-8f82-0ea6f064ebe2,limestone.id,available,64,10,9,,,
 5f501b74-67f8-4480-a5a9-19ebb64df36f,limited.id,available,82,15,7,,,
 f7aac04d-a142-418e-87c6-228451752eb4,limiting.id,available,65,2,8,,,
-703ede7d-ed04-4d47-9265-a7139942a97e,limitless.id,resell,76,45,9,PT Jagat Informasi Solusi (int),24/01/2022 00:19,24/01/2026 23:59
+703ede7d-ed04-4d47-9265-a7139942a97e,limitless.id,resell,76,99,9,PT Jagat Informasi Solusi (int),24/01/2022 00:19,24/01/2026 23:59
 24854912-812c-4ebd-a8c8-cf919052a76a,lindsay.id,available,70,14,7,,,
 8860de67-43da-4e7c-8253-e8d9d5199d72,Lions.id,available,72,17,5,,,
 17e0222e-8642-480c-aa9f-0f58779c4be6,lips.id,available,68,13,4,,,
@@ -2307,7 +2307,7 @@ f9270c56-9da1-4eff-b14c-3fa096bcd93c,lorry.id,available,91,7,5,,,
 7060b098-16cb-4ede-b212-9ef1b79a6efd,lots.id,available,70,10,4,,,
 c66a559e-45c1-4793-886d-46387bef3337,loud.id,available,60,21,4,,,
 9410eb52-3b4d-4474-a5ff-a86244e6efeb,lousy.id,available,60,6,5,,,
-ee30e03f-eed6-46bf-8005-f39603d325a9,lover.id,resell,89,13,5,PT Jagat Informasi Solusi (int),25/10/2018 21:51,25/10/2026 23:59
+ee30e03f-eed6-46bf-8005-f39603d325a9,lover.id,resell,89,98,5,PT Jagat Informasi Solusi (int),25/10/2018 21:51,25/10/2026 23:59
 d9d53c4c-bddc-4597-bc9d-1ea72437fefb,low.id,available,78,15,3,,,
 05df7305-5d1e-4be7-a553-c73317183aa1,lowercase.id,available,104,7,9,,,
 c204b9f7-8d7f-4eb7-a4fc-a9198829edbc,lowered.id,available,64,2,7,,,
@@ -3089,7 +3089,7 @@ d55d4a87-086c-475a-a677-cb6cc14bf888,racingline.id,available,76,4,11,,,
 3bd5c5ee-f05e-4843-a64e-28dfe6388004,rag.id,available,54,16,3,,,
 ab374e77-2ff3-4562-9ee4-d87acd20a49c,rain.id,available,98,37,4,,,
 d7f53fba-c412-4682-9d73-8d279fe1bb43,rainbow.id,resell,82,40,7,PT Jagat Informasi Solusi (int),23/06/2020 20:55,23/06/2026 23:59
-96c44c5e-3efb-4780-ab01-a00dcc1f2e5c,raised.id,available,76,5,6,,,
+96c44c5e-3efb-4780-ab01-a00dcc1f2e5c,raised.id,available,76,98,6,,,
 a7330309-3b4a-4941-8fce-364d6dd561b5,raisehell.id,available,,1,10,,,
 f3c958c4-5c36-4c82-9f48-69e4a74497a2,rake.id,available,60,10,4,,,
 17d50dd6-8823-4a9d-bdae-538ec32ab975,range.id,resell,66,22,5,PT Jagat Informasi Solusi (int),06/10/2022 00:50,06/10/2026 23:59
@@ -3127,7 +3127,7 @@ c8dbb645-b5f5-421e-8025-f50de5bd9182,recovery.id,resell,70,28,8,PT Registrasi Na
 3397c2e4-cf84-48af-a224-feaaf406d907,recreationroom.id,available,76,1,15,,,
 e3c99350-9d9c-41a1-ba33-11578d1ceba7,rectangle.id,available,80,11,9,,,
 eda9e110-b1c7-4781-bcb8-ff8634d625a2,rectify.id,available,78,11,7,,,
-c16bd127-3af2-4bb1-8500-f747b1bdf571,red.id,resell,80,35,3,PT Jetcoms Netindo,19/07/2017 06:51,19/07/2026 23:59
+c16bd127-3af2-4bb1-8500-f747b1bdf571,red.id,resell,80,99,3,PT Jetcoms Netindo,19/07/2017 06:51,19/07/2026 23:59
 5f7aa260-7bb5-46b4-ae84-410425cfe778,redapple.id,available,76,10,9,,,
 812f7e49-e98e-4451-8f1e-76f3861e99af,redmeat.id,available,,3,8,,,
 a18c8cb2-e142-4444-a1ce-dbed0be2f9d2,RedNoseDay.id,available,,3,12,,,
@@ -3143,7 +3143,7 @@ edcd0a5b-cddd-4829-9abc-5d1d4a56203f,reflexively.id,available,,1,11,,,
 7437e419-cdab-4728-b0eb-22f482e4ee38,refrigerator.id,resell,70,6,12,PT Registrasi Nama Domain,28/03/2016 01:05,28/03/2026 23:59
 5dd16442-8fd0-438e-b899-8a1e689e04cc,registeredtrademark.id,available,66,2,20,,,
 5a226686-4d97-4943-a2cf-6f60ccfe409d,regurgitate.id,available,78,1,11,,,
-7d2b72b0-48e1-42e3-9e30-9036f6004885,reinforced.id,available,69,4,10,,,
+7d2b72b0-48e1-42e3-9e30-9036f6004885,reinforced.id,available,69,97,10,,,
 9e8bff9e-2ff4-47b3-872d-7b067e349de6,rejection.id,available,58,2,9,,,
 9fc5fa2a-0bc0-4ee3-9afd-cea198698f22,rejoin.id,available,78,6,6,,,
 ea5fd770-1720-44e7-a331-9a33844a98ed,relapse.id,available,85,5,7,,,
@@ -3421,7 +3421,7 @@ ab7f7423-51b1-46b5-b662-2d2f389a0289,Shrek.id,available,84,7,5,,,
 393a1a0b-5965-4434-9eb3-56bda00df830,shrewd.id,available,66,97,6,,,
 f906a8dd-ca82-4b27-b274-d334caea43f2,shy.id,available,64,15,3,,,
 c4958c19-7415-43ea-829c-3c015e30e25a,Siamesecat.id,available,70,1,11,,,
-3a28c141-6a99-4d63-b062-4043b8e9312d,sick.id,available,62,20,4,,,
+3a28c141-6a99-4d63-b062-4043b8e9312d,sick.id,available,62,99,4,,,
 a9a9c586-8fa0-4149-916d-0ba2c71e8555,sickandtired.id,available,58,3,14,,,
 93758ab5-9adc-4279-924d-44c93f698d59,sideways.id,available,70,8,8,,,
 c477cf27-a4f7-4b79-a20a-05147bce3171,SierraLeone.id,available,,3,12,,,
@@ -3464,7 +3464,7 @@ f745b776-0664-48d9-8f54-b5be9636118d,sliced.id,available,74,7,6,,,
 40ed5ba2-23b0-45ae-92f1-483657e04359,slope.id,available,110,13,5,,,
 b86bd47c-629b-4619-973f-32fa3c7bcf6b,slot.id,resell,90,33,4,PT Registrasi Nama Domain,20/06/2018 06:01,20/06/2026 23:59
 756c4827-576c-4283-85a9-469b6cba94fd,sloth.id,available,80,19,5,,,
-a83198a4-a2c8-45db-ae4f-7ccf4e8962e4,slow.id,available,114,31,4,,,
+a83198a4-a2c8-45db-ae4f-7ccf4e8962e4,slow.id,available,114,99,4,,,
 5e7aae18-cd92-4b73-815c-35a96504cfb1,slowness.id,available,64,2,8,,,
 c98ff9a1-4cd0-41a7-8ee8-29bfffd493b8,sly.id,available,60,15,3,,,
 ec8eddc2-1af0-4b7a-88b2-fd6744d3035e,smallwords.id,available,,2,11,,,
@@ -3567,7 +3567,7 @@ a0d07c3c-9df8-4b84-8a86-6e7f0861963d,squall.id,available,80,6,6,,,
 fd4cd109-c981-47c6-af20-3f6fabc1af84,stain.id,available,82,7,5,,,
 d882fa31-3305-4461-b8be-2d02fa68ab93,stairs.id,available,64,10,6,,,
 15169c3c-098a-45b6-8d81-0192e474eea7,stallion.id,available,76,11,8,,,
-0e3b72f8-ae6b-4dfa-8356-caf7aee0000a,stamp.id,resell,64,18,5,PT Digital Registra Indonesia,28/08/2021 09:19,28/08/2026 23:59
+0e3b72f8-ae6b-4dfa-8356-caf7aee0000a,stamp.id,resell,64,98,5,PT Digital Registra Indonesia,28/08/2021 09:19,28/08/2026 23:59
 43e4a01a-bb50-4885-8be1-fdf5ccbc9956,stand.id,resell,112,20,5,PT Jagat Informasi Solusi (int),20/12/2021 14:11,20/12/2026 23:59
 312d637f-99e9-4ff0-a1ee-1358b3c1a761,standardize.id,available,70,2,11,,,
 3a90032a-0dfc-4a01-91ea-5578b6d453eb,standback.id,available,,2,10,,,
@@ -3748,7 +3748,7 @@ ff40dfde-d0a3-4f36-a191-4b8f98b00d93,taxassessment.id,available,62,2,14,,,
 0bc43a32-098d-4ab1-8784-aab3be8c5d16,taxswap.id,available,56,1,8,,,
 bb304fd3-a460-4279-9404-b67e914cb234,TBD.id,available,70,28,3,,,
 425e4ca2-e872-4cec-a46a-94b990d42641,tea.id,resell,102,33,3,PANDI Registrar,20/02/2023 05:06,20/02/2026 23:59
-f8b6cfc4-9ff6-4138-8819-20922de36c30,teal.id,available,76,25,4,,,
+f8b6cfc4-9ff6-4138-8819-20922de36c30,teal.id,available,76,98,4,,,
 f2ad2833-aba8-4515-80b9-2915b9ecabf3,teaplant.id,available,73,2,9,,,
 784657df-77be-497d-912c-5a7c90a6ebaa,teasing.id,available,72,97,7,,,
 9f8c8d1d-d992-4746-98c9-430c5ca1a07d,teastrainer.id,available,73,1,12,,,
@@ -3757,7 +3757,7 @@ f2ad2833-aba8-4515-80b9-2915b9ecabf3,teaplant.id,available,73,2,9,,,
 9e32bfbc-5b2b-4116-97bd-8101df6bc652,technologies.id,available,,12,12,,,
 6f769431-cf94-4152-88bb-7667ff3cd7c6,techweek.id,available,,12,9,,,
 7a279ee7-aa59-4ede-adbd-049b96029df4,teddybear.id,available,80,10,10,,,
-494719ce-0801-4c12-bf74-d7ef05c85cd2,tedious.id,available,60,5,7,,,
+494719ce-0801-4c12-bf74-d7ef05c85cd2,tedious.id,available,60,98,7,,,
 0aaef4c4-398b-40ec-96eb-90210eca6a4b,teeth.id,available,92,13,5,,,
 b637bee1-5a86-4f3e-b246-f0f9e6ff953b,teetotalism.id,available,,1,11,,,
 5a15bb8f-5664-4c31-a30b-46c54174c677,telecom.id,resell,78,21,7,PT Jagat Informasi Solusi (int),18/06/2022 00:33,18/06/2026 23:59
@@ -4081,7 +4081,7 @@ baf7c542-9968-4482-9e06-cc3b1ed6fd0f,vaccination.id,available,,8,11,,,
 db81251f-e138-4196-aa40-d32718d8e41f,vacuum.id,available,90,15,6,,,
 2614dfe2-d811-4439-a9f2-c4876cd2d427,vacuumcleaner.id,available,76,5,14,,,
 932fb93d-cdd9-4819-81a8-7c270fe470c0,vague.id,available,100,8,5,,,
-37c4ba86-4a34-4acc-810d-6af40153b9c5,vain.id,available,68,8,4,,,
+37c4ba86-4a34-4acc-810d-6af40153b9c5,vain.id,available,68,98,4,,,
 e0587033-e94f-463a-86f2-24a339096c36,valuable.id,available,88,9,8,,,
 6d11ab1e-d301-4598-95cc-20e8dbe72c18,valueable.id,available,74,3,9,,,
 c7732396-f1eb-40ab-bb82-e6cb9bd97b52,vandalism.id,available,54,3,9,,,
@@ -4267,7 +4267,7 @@ dd204ca4-6c81-4e6d-82b4-f012a86914f1,wind.id,available,76,20,4,,,
 2b288974-dbfd-4e28-bec7-f152e7afdecf,window.id,available,102,19,6,,,
 75a82faa-52f7-4199-b9d5-195215c69700,windowseat.id,available,74,5,11,,,
 674e9958-bda6-4a6d-b51a-703144dd0369,windsor.id,available,66,19,7,,,
-ee10e71d-1128-4a75-afe7-a04728b45c87,windy.id,available,90,12,5,,,
+ee10e71d-1128-4a75-afe7-a04728b45c87,windy.id,available,90,98,5,,,
 c0c9a8d3-72b0-47ca-8b93-193cc64ae28c,wing.id,available,62,98,4,,,
 72f3214f-53a8-47de-a59a-24f7483b4535,wink.id,resell,104,98,4,PT Jagat Informasi Solusi (int),08/02/2025 14:36,08/02/2026 23:59
 bd23ee6e-db5c-4fda-a048-5eea055fcad2,winner.id,resell,78,30,6,PT Jagat Informasi Solusi (int),14/07/2021 00:22,14/07/2026 23:59
