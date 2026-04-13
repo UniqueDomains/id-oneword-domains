@@ -76,9 +76,9 @@ print(df.head())
 | feelgood.id  | available | $25.98    | —             | 82             | 27     | 9      | namecheap                       |
 | brave.id     | resell    | —         | —             | 76             | 98     | 5      | PT Digital Registra Indonesia   |
 | ten.id       | premium   | $1,560    | $22.75        | 88             | 31     | 3      | namecheap                       |
-| outlaw.id    | available | $25.98    | —             | 62             | 24     | 6      | namecheap                       |
+| outlaw.id    | available | $25.98    | —             | 62             | 25     | 6      | namecheap                       |
 | can.id       | resell    | —         | —             | 68             | 98     | 3      | PT Jetcoms Netindo              |
-| sad.id       | premium   | $1,560    | $22.75        | 72             | 27     | 3      | namecheap                       |
+| sad.id       | premium   | $1,560    | $22.75        | 72             | 26     | 3      | namecheap                       |
 | silly.id     | available | $25.98    | —             | 82             | 23     | 5      | namecheap                       |
 | palestine.id | resell    | —         | —             | 59             | 93     | 9      | PT Registrasi Nama Domain       |
 | sum.id       | premium   | $1,560    | $22.75        | 66             | 26     | 3      | namecheap                       |

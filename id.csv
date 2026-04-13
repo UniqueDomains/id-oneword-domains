@@ -1,6 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 ad20cf0f-ef9d-4155-a5bb-65557d512cd3,insurance.id,resell,,,80,44,9,PT Jagat Informasi Solusi (int),14/02/2022 00:27,14/02/2028 23:59
-fdadce6f-9216-4470-8202-d061d3e7e7c7,spread.id,resell,,,74,23,6,PT Dewabisnis Digital Indonesia,19/06/2025 01:22,19/06/2026 23:59
+fdadce6f-9216-4470-8202-d061d3e7e7c7,spread.id,resell,,,74,24,6,PT Dewabisnis Digital Indonesia,19/06/2025 01:22,19/06/2026 23:59
 0e0fc492-9ce4-4a7b-98e7-ecf7576f2b24,lick.id,premium,,,62,8,4,,,
 b54549c6-f1f9-4730-bfc5-1b5ad7937513,keepgoing.id,premium,,,72,11,10,,,
 5e6e7c99-e46c-47b9-8c84-6b3c19257d45,unquestionable.id,premium,,,72,2,14,,,
@@ -54,7 +54,7 @@ c56bf8c8-cb0d-4f31-8a4a-78ebe13c830b,bugged.id,premium,,,56,4,6,,,
 d6df9b42-98b1-4a21-8019-cab8a2d0e78e,givethanks.id,premium,,,54,5,11,,,
 8772ddd8-83e2-4b98-888e-efdfdc74d03b,butterflykeyboard.id,premium,,,76,1,18,,,
 38adde04-d3d5-4fa7-864c-ca35a6f3cbc6,humanity.id,resell,,,76,31,8,PT Jagat Informasi Solusi (int),25/02/2023 00:01,25/02/2027 23:59
-1f432ed1-93bc-4abb-a04a-2778b1758134,fired.id,available,25.98,,52,11,5,namecheap,,
+1f432ed1-93bc-4abb-a04a-2778b1758134,fired.id,available,25.98,,52,10,5,namecheap,,
 82e64669-13dc-4f7c-b539-7467e2b18341,desktopcomputer.id,premium,,,76,2,16,,,
 7aaa2d8c-5006-4ed0-ae8a-b175e8a939c8,alleyway.id,premium,,,58,4,8,,,
 2e347021-4862-46c9-9250-cebea3873c20,allyoucaneat.id,premium,,,76,4,15,,,
@@ -92,7 +92,7 @@ d92e66fa-3dfc-41e6-abb8-9f08932b475d,multitude.id,resell,,,70,10,9,PT Jagat Info
 8ca165e8-547d-4aab-80ef-b337df00aa55,showoff.id,premium,,,58,12,8,,,
 e425ff77-cf97-4591-a3f3-1e71963c019e,photographicmemory.id,premium,,,70,4,19,,,
 f5b786d1-5791-44be-9c5f-d430a0c6ddd5,giveback.id,premium,,,76,11,9,,,
-f7aac04d-a142-418e-87c6-228451752eb4,limiting.id,available,25.98,,65,3,8,namecheap,,
+f7aac04d-a142-418e-87c6-228451752eb4,limiting.id,available,25.98,,65,4,8,namecheap,,
 edb5beeb-6abd-4d35-809f-a543cf3bc381,boxcoat.id,premium,,,64,1,8,,,
 a8a814c2-083b-4461-8cde-de550f735bf0,muhfuckah.id,premium,,,62,1,9,,,
 f1279a23-e457-42d2-9e09-1d35264e6c53,bead.id,premium,,,92,15,4,,,
@@ -409,7 +409,7 @@ dfa92adc-f42a-4b7e-b46d-d1ea7533b2dc,cleopatra.id,premium,,,76,16,9,,,
 74e3713c-a3d1-4f7c-af4d-0fb391847942,manythanks.id,premium,,,84,3,11,,,
 7c4d5719-7499-48ea-857f-8e7c530f4281,cometoaclose.id,premium,,,70,1,15,,,
 87bc3dc2-2116-4cbf-9ce4-d16596747016,stockupon.id,premium,,,,1,11,,,
-e90fdfb8-ba3a-4ee0-ae03-13a251537394,mark.id,resell,,,66,42,4,PT Jetcoms Netindo,19/07/2017 07:50,19/07/2026 23:59
+e90fdfb8-ba3a-4ee0-ae03-13a251537394,mark.id,resell,,,66,41,4,PT Jetcoms Netindo,19/07/2017 07:50,19/07/2026 23:59
 259044d9-2b78-492d-ba49-15a5e8ad32f2,spf.id,resell,,,98,18,3,PANDI Registrar,20/02/2023 06:40,20/02/2027 23:59
 c6292776-8a2d-4246-a7a4-7927d3310fea,getupearly.id,premium,,,75,1,12,,,
 004a731d-8a1f-49cd-ae59-03440637b2e6,exec.id,premium,,,91,27,4,,,
@@ -572,7 +572,7 @@ b3171889-30d6-4d88-b20e-ce6bdf795001,domesticworker.id,premium,,,72,2,15,,,
 d7be36be-95e4-407c-8313-f5e86c6dad81,economy.id,resell,,,104,24,7,PT Registrasi Nama Domain,10/07/2016 03:30,10/07/2026 23:59
 edbc71e0-fb11-4e31-afbe-90f543597ccb,sea.id,resell,,,76,35,3,PT Jetcoms Netindo,19/07/2017 06:53,19/07/2026 23:59
 0cb22d87-0ff7-4f16-b491-7a6884b395f5,college.id,resell,,,76,31,7,PT Jagat Informasi Solusi (int),31/10/2023 00:39,31/10/2026 23:59
-cad85ffd-5b89-44a1-8ae4-b967760f1a5b,immediate.id,premium,,,72,12,9,,,
+cad85ffd-5b89-44a1-8ae4-b967760f1a5b,immediate.id,premium,,,72,13,9,,,
 4d063b98-f311-4096-823c-8a621841fb3b,sovereign.id,resell,,,86,42,9,PT Digital Registra Indonesia,15/12/2022 00:18,15/12/2026 23:59
 028c7c49-1a62-4935-9bc7-e277df32c9b9,thrift.id,resell,,,54,16,6,PT Registrasi Nama Domain,17/08/2025 01:11,17/08/2026 23:59
 bc7f2c0d-bf52-4215-93ee-db9158c06c37,normallywhite.id,premium,,,,1,14,,,
@@ -756,7 +756,7 @@ b1802aa3-d40a-416f-8d39-843f358394a2,nomatter.id,premium,,,56,7,9,,,
 b13024da-1f97-409c-abc5-979bd64e331e,punk.id,resell,,,102,31,4,PT Jagat Informasi Solusi (int),03/01/2022 05:44,03/01/2027 23:59
 fda5850c-8307-4f58-aa72-4c57745ebfb9,makethemostof.id,premium,,,76,1,16,,,
 0e70307f-7eef-43d2-b4f1-a8695e8d5a1a,laziness.id,premium,,,58,3,8,,,
-a0685478-2868-4cb4-8931-92eb910b1dfe,commercial.id,resell,,,91,26,10,PT Jagat Informasi Solusi (int),16/01/2024 00:30,16/01/2027 23:59
+a0685478-2868-4cb4-8931-92eb910b1dfe,commercial.id,resell,,,91,25,10,PT Jagat Informasi Solusi (int),16/01/2024 00:30,16/01/2027 23:59
 19b2b52e-bbeb-4fe0-b4b4-85708eabfff9,technicality.id,premium,,,,3,12,,,
 2e342bd2-02d1-480d-88f7-db4bd20f5a88,freedom.id,resell,,,78,45,7,PT Jagat Informasi Solusi (int),10/10/2023 00:30,10/10/2026 23:59
 03b25170-46a0-4dd4-8880-7cedb00a84c5,WestCoast.id,premium,,,,15,10,,,
@@ -908,7 +908,7 @@ c2a44890-a131-480e-9f25-b440de2f4cf6,devour.id,premium,,,74,10,6,,,
 2eee736e-0128-4e78-8d9e-e2aea3056464,soul.id,resell,,,104,47,4,PT Jagat Informasi Solusi (int),05/07/2018 07:02,05/07/2026 23:59
 1cf7a02c-23fd-445c-a479-098f431fcc1c,acids.id,premium,,,50,3,5,,,
 1ea44b78-d44e-4b92-8717-00b825c5db25,thrashabout.id,premium,,,,1,12,,,
-cb345d67-2d84-4b52-8bb5-2fa9edc3963e,mandatory.id,available,25.98,,84,7,9,namecheap,,
+cb345d67-2d84-4b52-8bb5-2fa9edc3963e,mandatory.id,available,25.98,,84,8,9,namecheap,,
 21653800-a129-469e-8220-eb4dcfd87e08,whogoesthere.id,premium,,,,1,14,,,
 6cacdecb-48d2-4350-bd92-ec202959a860,intrigue.id,premium,,,94,10,8,,,
 8bf7ee2b-7e15-4f1b-af3c-6b0cbe225fe7,mouth.id,premium,,,96,12,5,,,
@@ -1281,7 +1281,7 @@ b89b2780-4f35-4542-ae00-1c164e75849e,oklahoma.id,resell,,,46,21,8,PT Registrasi 
 b56b29f7-05aa-46bd-bc26-a483cffca86a,cost.id,resell,,,64,20,4,PANDI Registrar,04/12/2025 02:40,04/12/2034 23:59
 89a5cd87-8390-460f-9616-c8ef75ce7f6a,xii.id,premium,,,66,11,3,,,
 a93e1509-71ba-4a38-bbcf-f89dd709f9bc,many.id,premium,,,76,25,4,,,
-5595f2f2-1801-4842-89e3-3215738fa35f,crafty.id,resell,,,68,23,6,PT Jagat Informasi Solusi (int),24/06/2022 00:37,24/06/2026 23:59
+5595f2f2-1801-4842-89e3-3215738fa35f,crafty.id,resell,,,68,22,6,PT Jagat Informasi Solusi (int),24/06/2022 00:37,24/06/2026 23:59
 614eb618-0b2c-4532-a9ca-3a2e172342fd,nowwhat.id,premium,,,,12,8,,,
 af9ebe32-bbc5-4a88-b7c4-fbfd8ca31f44,troublemaker.id,premium,,,48,9,13,,,
 414fdb76-fb7d-4bd6-9f0f-49f4a000f65a,live.id,resell,,,86,56,4,PT Jagat Informasi Solusi (int),15/08/2014 11:00,15/08/2026 23:59
@@ -1617,7 +1617,7 @@ ae2f23b2-dc83-44f4-9585-78130b7f88fa,armored.id,premium,,,66,11,7,,,
 2e72418b-0170-431e-a579-17c949c8f6de,wondrous.id,premium,,,78,10,8,,,
 c6107a7f-8408-41ed-9037-875b4b69b1c4,experiment.id,premium,,,94,16,10,,,
 3a474047-7b3b-4b9c-8a6d-f4cbb3c8c409,gotobedwith.id,premium,,,66,1,14,,,
-82c78d6f-71a1-421e-8201-a944b5c71c22,composed.id,available,25.98,,71,11,8,namecheap,,
+82c78d6f-71a1-421e-8201-a944b5c71c22,composed.id,available,25.98,,71,12,8,namecheap,,
 5adca8f7-6f68-4842-bcd2-1e1390dbc76f,inorderto.id,premium,,,,1,11,,,
 eeb01cc4-815d-4961-b73f-83334c895209,truthordare.id,premium,,,,6,13,,,
 0e3b72f8-ae6b-4dfa-8356-caf7aee0000a,stamp.id,resell,,,64,21,5,PT Digital Registra Indonesia,28/08/2021 09:19,28/08/2026 23:59
@@ -1806,7 +1806,7 @@ cf1f3b4a-a085-4cbe-957d-0a68b7312ee1,backpack.id,resell,,,94,22,8,PT Digital Reg
 edfc94d4-e3bc-47ee-9201-739c4fd2e808,lookunderrocks.id,premium,,,68,1,16,,,
 e522df08-f978-47fb-a042-50a8105c2d19,Ionlyworkhere.id,premium,,,54,1,16,,,
 ccd6c5ab-c0d7-49e5-9571-acbbbe0cb4fd,estateinland.id,premium,,,64,1,14,,,
-a354db25-4e6b-4349-a9e8-331b893a8523,hidden.id,resell,,,65,35,6,PT Jagat Informasi Solusi (int),01/11/2017 21:50,01/11/2026 23:59
+a354db25-4e6b-4349-a9e8-331b893a8523,hidden.id,resell,,,65,34,6,PT Jagat Informasi Solusi (int),01/11/2017 21:50,01/11/2026 23:59
 767dcc6d-d32f-4da0-ad40-e6aeba42e77b,essayquestion.id,premium,,,68,1,14,,,
 f348265c-8726-4e09-838d-ad0ea7ddfa88,sunbeam.id,premium,,,78,14,7,,,
 53a09f3e-ab63-4743-affc-0b14cbcb52b5,heal.id,premium,,,70,26,4,,,
@@ -1998,7 +1998,7 @@ c797661d-2b50-4e0b-9136-5e947d4afb90,detergent.id,available,25.98,,80,7,9,namech
 a081d103-2c90-47dc-bc78-fb7cf5a516fa,airmarshal.id,premium,,,72,2,11,,,
 66ad782d-44c5-4421-b956-5d23a6fce747,keepcompany.id,premium,,,78,2,12,,,
 dcc9b9c5-e27d-400f-8d0d-642fe66ad1e9,journeyman.id,premium,,,64,12,10,,,
-ef495dde-c3ba-4b03-ac38-e4a90853d0e4,shared.id,resell,,,70,39,6,PT Digital Registra Indonesia,21/05/2021 00:52,21/05/2026 23:59
+ef495dde-c3ba-4b03-ac38-e4a90853d0e4,shared.id,resell,,,70,37,6,PT Digital Registra Indonesia,21/05/2021 00:52,21/05/2026 23:59
 0ecd33da-94ee-492f-8998-7b20849ef001,backalley.id,premium,,,58,3,10,,,
 97cc5df0-3b8a-4642-b653-54d89cd9d974,worst.id,premium,,,58,20,5,,,
 c46c3f68-f835-4962-80a0-eb2d102b573f,takeastand.id,premium,,,,3,12,,,
@@ -2140,7 +2140,7 @@ a8587d58-0adc-475d-af1c-4c68414b0fd9,popquiz.id,premium,,,,3,8,,,
 f38923f6-1e02-4ebd-90b8-a7cedb599ecb,goodandproper.id,premium,,,66,3,15,,,
 c9538cdd-ed2a-471f-8ba2-ce47faece458,prank.id,resell,,,106,98,5,PT Registrasi Nama Domain,17/08/2025 01:19,17/08/2026 23:59
 7feee269-b1ca-4161-9240-f9f016bb0e4a,supervise.id,premium,,,74,6,9,,,
-61fc2709-8430-4078-96e9-04024051495b,delicious.id,resell,,,78,21,9,PT Digital Registra Indonesia,15/07/2023 00:48,15/07/2026 23:59
+61fc2709-8430-4078-96e9-04024051495b,delicious.id,resell,,,78,20,9,PT Digital Registra Indonesia,15/07/2023 00:48,15/07/2026 23:59
 4674eb10-904b-4cae-b850-6b276388d507,oneortwo.id,premium,,,,2,10,,,
 f38f2c03-24c6-4016-beb5-b9d55a4edbb1,sixteen.id,available,25.98,,88,12,7,namecheap,,
 e4f9f723-b410-4528-9852-0386c119ca6a,covid.id,resell,,,74,22,5,PT Jagat Informasi Solusi (int),23/05/2022 00:18,23/05/2026 23:59
@@ -2170,7 +2170,7 @@ f46290ea-c7d4-4dd8-97ed-e8a6f34f62d1,congregation.id,premium,,,70,5,12,,,
 5f6d4ec8-fe94-4f97-89e8-0c19740b1b8e,absence.id,premium,,,64,5,7,,,
 15e540ac-a5ae-4199-b26d-f59952c3fee8,commonkiwi.id,premium,,,50,1,11,,,
 c930e94f-b7c1-437f-a87f-6df543416fad,investing.id,resell,,,78,34,9,PT Registrasi Nama Domain,11/11/2019 00:07,11/11/2026 23:59
-02b23d84-9ab7-41fa-a061-b1cf807115a8,outlaw.id,available,25.98,,62,24,6,namecheap,,
+02b23d84-9ab7-41fa-a061-b1cf807115a8,outlaw.id,available,25.98,,62,25,6,namecheap,,
 335e5bfc-201f-4f32-bed4-7bd485447b8c,for.id,premium,,,80,45,3,,,
 177e931e-5381-4220-be27-38174356f7f5,union.id,resell,,,90,38,5,PT Web Commerce Communications,14/09/2017 06:41,14/09/2026 23:59
 f8155ff3-5264-4612-97c0-bb8df5caa076,ordinarily.id,premium,,,62,2,10,,,
@@ -2240,7 +2240,7 @@ dda28897-eff3-4ead-a9b6-df80dd141dca,takeback.id,premium,,,68,9,9,,,
 7c24a694-7e1a-456a-ab5b-3fc47d61e2e1,airpressure.id,premium,,,64,2,12,,,
 1c1e70c5-2864-41dc-8913-3207371813e9,merrymen.id,premium,,,76,2,9,,,
 b17bb09d-7394-4aab-9188-b6e7e6b00e8c,anarmandaleg.id,premium,,,64,1,16,,,
-5291db5a-a555-492e-8dd2-fb16e2f0b2cd,delicate.id,premium,,,84,9,8,,,
+5291db5a-a555-492e-8dd2-fb16e2f0b2cd,delicate.id,premium,,,84,10,8,,,
 22c0307e-e416-44ba-ad35-e3672ef1e881,commonmarket.id,premium,,,64,2,13,,,
 9ba32b30-b406-4fef-b889-5d61d94f266f,interim.id,premium,,,88,19,7,,,
 5e82a51c-f88d-476a-ad82-312062ffa31f,tongue.id,premium,,,66,8,6,,,
@@ -2408,7 +2408,7 @@ ffcad4ac-194f-476b-9e1e-0c8e6808f830,ricevinegar.id,premium,,,,1,12,,,
 2f824ec1-0da2-4579-a954-c7dffa5219e9,powered.id,premium,,,72,16,7,,,
 27797cda-4d15-4f6a-82e2-c6f02cd3d0a1,visualized.id,premium,,,70,6,10,,,
 974f99b6-05da-44c1-b2ea-82156d81a984,hardatwork.id,premium,,,74,1,12,,,
-c5e1821c-10d8-4c64-9425-6e0a079c3f6a,digital.id,resell,,,100,50,7,PT Aksara Data Digital,19/06/2017 00:19,19/06/2027 23:59
+c5e1821c-10d8-4c64-9425-6e0a079c3f6a,digital.id,resell,,,100,49,7,PT Aksara Data Digital,19/06/2017 00:19,19/06/2027 23:59
 ef1d8805-975b-4dd6-8021-9219126b7c9c,grandad.id,premium,,,80,3,7,,,
 fe7759de-f009-407e-a4f4-995242883008,wording.id,premium,,,70,6,7,,,
 6df02d0e-97e1-4964-9eac-79fd1b70f204,uncomplicated.id,premium,,,72,9,13,,,
@@ -2459,7 +2459,7 @@ ce809213-4173-4e45-b02c-81111a6a3d13,manyattimes.id,premium,,,58,1,13,,,
 7ea95f71-cc63-4677-9e76-b214a1ca329d,thiscoming.id,premium,,,,1,11,,,
 da2a9928-2f14-48b8-9a4f-204750c0b891,forehead.id,premium,,,70,4,8,,,
 67ab22b0-0066-451f-bfdd-ef852969a4fa,accuser.id,premium,,,66,3,7,,,
-2085b70c-705c-436b-8ce3-0c0bc5cc5a0a,double.id,resell,,,92,30,6,PT Jagat Informasi Solusi (int),02/03/2022 00:34,02/03/2027 23:59
+2085b70c-705c-436b-8ce3-0c0bc5cc5a0a,double.id,resell,,,92,29,6,PT Jagat Informasi Solusi (int),02/03/2022 00:34,02/03/2027 23:59
 f22f4b58-254a-4850-a039-6af536a9a221,howsayyou.id,premium,,,48,1,11,,,
 dd637715-bab1-46e0-b491-e6c089333272,had.id,premium,,,70,12,3,,,
 e1c02c4d-ab1d-490b-9441-163e05ed43db,waitingroom.id,premium,,,72,9,12,,,
@@ -2521,7 +2521,7 @@ c58029d3-d371-4114-b659-a42ed24f44a0,eyes.id,premium,,,72,17,4,,,
 61c9aced-4443-4e6f-9113-257844759463,copypronoun.id,premium,,,72,1,12,,,
 8e0f649e-9220-4391-aa40-897572cf4284,temperature.id,premium,,,,9,11,,,
 29b09ec3-e450-4d96-b014-99765bd202ca,thereagain.id,premium,,,,1,11,,,
-a6cea366-d3bb-489f-b312-cd7eafb2caa7,elaborated.id,available,25.98,,64,1,10,namecheap,,
+a6cea366-d3bb-489f-b312-cd7eafb2caa7,elaborated.id,available,25.98,,64,2,10,namecheap,,
 79caaf74-4165-430b-b59d-f1bba167a099,scientifically.id,premium,,,60,3,14,,,
 26505dd9-bb6f-4919-9a73-e6c08d27e3b8,myapologies.id,premium,,,74,1,12,,,
 0d045ee8-b87b-4792-9cb6-373c0c02c8ed,consuming.id,available,25.98,,82,4,9,namecheap,,
@@ -2694,7 +2694,7 @@ f2f14c2d-9838-4b5e-85f4-80cf5cb35c2a,DSLR.id,premium,,,78,5,4,,,
 e9871275-c953-40b5-b78b-2acab3293fac,coffeegrinder.id,premium,,,79,2,14,,,
 1240ae68-58a5-4cb1-900d-2ba6f2d99d96,deepest.id,premium,,,56,5,7,,,
 bcddcac6-351f-4128-aaf0-774357ddaa08,disrespect.id,premium,,,82,3,10,,,
-d7667f5b-8969-4d3e-80b7-5c363252b5a4,needy.id,available,25.98,,58,10,5,namecheap,,
+d7667f5b-8969-4d3e-80b7-5c363252b5a4,needy.id,available,25.98,,58,9,5,namecheap,,
 a8cdc3e2-ccf7-4bd7-8e18-c47ff237e714,shot.id,premium,,,116,24,4,,,
 3f8f3541-40a4-4582-ab42-393cfd6fa8dc,duke.id,premium,,,88,39,4,,,
 bef5e96c-a72c-404a-a628-9a04100cc458,ship.id,resell,,,90,38,4,PT Jetcoms Netindo,18/07/2017 08:27,18/07/2026 23:59
@@ -2800,7 +2800,7 @@ f2bdfc4a-e471-4dbc-a02f-19b2f9fa57e6,Latinalphabet.id,premium,,,72,2,14,,,
 4b012cac-7773-46b7-9f2f-9ce41039de7b,inthedistance.id,premium,,,56,2,15,,,
 9ca288d2-f16e-46bb-bcf4-f9b892b843b3,bargain.id,premium,,,98,16,7,,,
 b6b0c2a4-e232-4b96-8e37-7268f0dc73e8,MasterofScience.id,premium,,,64,2,17,,,
-0655e7bb-da9a-40ad-a01e-dca31935c825,crowded.id,available,25.98,,60,8,7,namecheap,,
+0655e7bb-da9a-40ad-a01e-dca31935c825,crowded.id,available,25.98,,60,7,7,namecheap,,
 131a12bf-aa36-4032-adc0-667aa96ee2e7,seeyoulater.id,premium,,,,3,13,,,
 806b3963-b8bf-4ca5-aca0-d9a5844f563a,Westminster.id,premium,,,66,10,11,,,
 a6a92782-60f0-4d9e-b3c9-1897641830b0,rockmusic.id,premium,,,,7,10,,,
@@ -2848,7 +2848,7 @@ c2bb4ddd-f421-4089-abf1-856432fa8282,childprostitution.id,premium,,,52,1,18,,,
 e5a4b14b-422c-4016-a672-5939d1e38966,instantmessage.id,premium,,,92,2,15,,,
 6c1c0646-5830-4c6e-8934-474f0a268941,unsatisfactory.id,premium,,,54,1,14,,,
 edbf3a25-ab47-45c7-acd0-aa4b325f2663,outlet.id,resell,,,70,19,6,PT Digital Registra Indonesia,23/03/2023 00:03,23/03/2027 23:59
-9410eb52-3b4d-4474-a5ff-a86244e6efeb,lousy.id,available,25.98,,60,8,5,namecheap,,
+9410eb52-3b4d-4474-a5ff-a86244e6efeb,lousy.id,available,25.98,,60,7,5,namecheap,,
 d2243e4a-c086-44d9-a6bb-0dae0e6bfcfb,attack.id,premium,,,122,13,6,,,
 c0ed86b8-e2b3-4231-a441-c6c5ca7b9166,jolly.id,resell,,,68,27,5,PT Jagat Informasi Solusi (int),14/08/2024 21:45,14/08/2026 23:59
 6c78818d-5fde-4d45-9204-289eb5f45067,hands.id,resell,,,60,21,5,PT Aksara Data Digital,18/08/2024 00:31,18/08/2026 23:59
@@ -2885,7 +2885,7 @@ f046d925-822d-4902-9bff-657f9b28dc85,dateback.id,premium,,,70,1,9,,,
 37ddc680-ebd7-4b4b-9e30-1aace81488ed,november.id,resell,,,72,14,8,PT Registrasi Nama Domain,09/08/2019 16:31,09/08/2026 23:59
 db16f36f-7d27-4df8-b800-204b84c43a2a,proclaimed.id,premium,,,62,2,10,,,
 dfef9dbb-2624-45e1-acfb-f8df6204d8b1,peacock.id,resell,,,66,81,7,PT Jagat Informasi Solusi (int),17/11/2022 13:53,17/11/2026 23:59
-eda9e110-b1c7-4781-bcb8-ff8634d625a2,rectify.id,available,25.98,,78,17,7,namecheap,,
+eda9e110-b1c7-4781-bcb8-ff8634d625a2,rectify.id,available,25.98,,78,18,7,namecheap,,
 c59e5766-3fd5-4228-a25c-145556dcb82f,generalequilibrium.id,premium,,,66,1,19,,,
 0c552e88-2276-4b9e-829b-84ce9985d762,worsened.id,premium,,,54,1,8,,,
 d3c57d10-b616-4a26-af32-5f9e774e73fe,waterfountain.id,premium,,,74,4,14,,,
@@ -2910,7 +2910,7 @@ e30dcad6-5500-4df3-9ca9-1b047150630d,everybodyelse.id,premium,,,56,1,14,,,
 fd0db246-e29c-4e2a-b212-c32eb57c1959,waitfor.id,premium,,,,4,8,,,
 ea485b0d-1880-4bff-ab20-497a7fbf1259,prompting.id,premium,,,69,15,9,,,
 9558be5e-8438-456e-a549-bd110544e6f4,indate.id,premium,,,,3,7,,,
-4ae2ec47-e870-4b64-8866-2b3548207022,forge.id,resell,,,62,45,5,PT Jagat Informasi Solusi (int),22/01/2022 00:18,22/01/2027 23:59
+4ae2ec47-e870-4b64-8866-2b3548207022,forge.id,resell,,,62,44,5,PT Jagat Informasi Solusi (int),22/01/2022 00:18,22/01/2027 23:59
 7c75a349-4550-4304-afd0-0acf3abf7916,hairfollicle.id,premium,,,72,2,13,,,
 7234bd6d-5b9b-4ac2-a746-fce3f4eab3c3,oldagepensioner.id,premium,,,64,1,17,,,
 ca70f047-5d8b-4cfb-86fe-605abd4ee47c,separate.id,premium,,,98,7,8,,,
@@ -2998,7 +2998,7 @@ dd77d6a5-b109-4b7c-8831-c555ebbce319,shh.id,premium,,,68,19,3,,,
 abfc1719-fff3-4cd6-ac44-43b720c8ae4f,hunkydory.id,available,25.98,,70,7,10,namecheap,,
 ad64bc4c-d87e-45e4-996b-9facb37f5e72,sedative.id,premium,,,76,3,8,,,
 93750ca1-690e-439c-aef8-e77d170e8a09,collision.id,premium,,,60,16,9,,,
-b8b25750-1e36-4ecc-ae40-e9d7cf7d6e41,concrete.id,resell,,,102,31,8,PT Registrasi Nama Domain,31/07/2019 17:55,31/07/2026 23:59
+b8b25750-1e36-4ecc-ae40-e9d7cf7d6e41,concrete.id,resell,,,102,32,8,PT Registrasi Nama Domain,31/07/2019 17:55,31/07/2026 23:59
 01d43bf5-1ba3-457f-9b0e-e0af30c5663a,cement.id,resell,,,68,11,6,PT Registrasi Nama Domain,17/08/2018 08:55,17/08/2026 23:59
 f5640f40-c6ac-42ab-a8c4-bdc56ad1bf29,tall.id,premium,,,106,10,4,,,
 5a5eaee0-4666-4fac-8560-01f9378e9be2,fruitjuice.id,premium,,,74,3,11,,,
@@ -3135,7 +3135,7 @@ d5a30295-6c71-49f7-8a03-85aa57d707ff,bug.id,premium,,,76,31,3,,,
 1b01ffc4-ff27-43e1-af04-29bec2c980b0,dowhat.id,premium,,,68,4,7,,,
 1142d64d-0c33-400e-b714-434106882f05,Bets.id,resell,,,72,22,4,PT Jagat Informasi Solusi (int),29/08/2024 15:45,29/08/2026 23:59
 f74bc409-af86-4079-9263-fb8c91ea58a8,treehugger.id,premium,,,,5,11,,,
-d42c1105-d156-46a2-a28b-da4834f1ad72,confirming.id,available,25.98,,73,5,10,namecheap,,
+d42c1105-d156-46a2-a28b-da4834f1ad72,confirming.id,available,25.98,,73,6,10,namecheap,,
 bdb31859-ce0f-442e-9e67-b6c274cf3796,treasurydepartment.id,premium,,,68,1,19,,,
 82f6db54-115e-4cef-b294-decc4d7b9b31,middleclass.id,premium,,,66,5,12,,,
 f12181b5-e3af-4704-8850-beb2a477b56c,suckit.id,premium,,,62,6,7,,,
@@ -3152,7 +3152,7 @@ a8359335-1e83-4329-ba5b-ac9543c3c018,not.id,premium,,,68,42,3,,,
 8285dfbf-3eda-48f9-a0f2-e07f8f7a7c62,sportsfan.id,premium,,,72,7,10,,,
 611ed0df-ca3e-4f97-b0fc-5c012f35f877,talkof.id,premium,,,,1,7,,,
 b952004e-70b0-4f67-8c28-d61e248cb7ac,surething.id,premium,,,74,7,10,,,
-3861fc02-f727-417a-86b1-f0b67ffacb95,cute.id,resell,,,82,34,4,PT Jagat Informasi Solusi (int),18/01/2025 07:49,18/01/2027 23:59
+3861fc02-f727-417a-86b1-f0b67ffacb95,cute.id,resell,,,82,32,4,PT Jagat Informasi Solusi (int),18/01/2025 07:49,18/01/2027 23:59
 a94007ba-76a5-42d7-8c1d-e582c7052efe,moneyeconomy.id,premium,,,78,1,13,,,
 51b920dc-0f36-4664-a385-a52f6dde5cd5,remover.id,premium,,,66,6,7,,,
 f381bf3b-8877-439f-b199-4f7f32664033,luckystreak.id,premium,,,76,4,12,,,
@@ -3161,7 +3161,7 @@ d4643d95-e22a-4505-ad72-45d6c82bf2a0,four.id,premium,,,66,32,4,,,
 57daa674-6d74-41b6-876d-7e7c5ca41fa4,coherently.id,premium,,,62,3,10,,,
 301c0a1c-e06b-49c9-90b7-7dd94807bded,sunbelt.id,premium,,,78,9,7,,,
 2b85cea1-fcf7-4156-9756-7c87d48422f0,headup.id,premium,,,80,4,7,,,
-9d5d6b7c-d88b-4013-9406-6c72798dbc34,design.id,resell,,,90,50,6,PT Registrasi Nama Domain,20/09/2020 00:25,20/09/2026 23:59
+9d5d6b7c-d88b-4013-9406-6c72798dbc34,design.id,resell,,,90,49,6,PT Registrasi Nama Domain,20/09/2020 00:25,20/09/2026 23:59
 8b1981be-a0d6-4027-8a67-6be49b6fb2f0,inthehotseat.id,premium,,,62,1,15,,,
 f5d0c5a3-340b-44ab-a6b0-c72320f04d09,dishout.id,premium,,,74,5,8,,,
 a8d9a491-af8e-4349-9aed-a323f4aafe13,themself.id,premium,,,,2,8,,,
@@ -3180,7 +3180,7 @@ e48741c8-0820-48b0-881c-d9c27f03e7cb,redtape.id,premium,,,,5,8,,,
 a178bd3b-4c7d-46ec-989d-960519e1f6ed,wordis.id,premium,,,,2,7,,,
 368ec061-ba7a-4402-ae7b-9b5d88333a0f,mothahfuggah.id,premium,,,62,1,12,,,
 e61fdd94-d52e-492e-9f18-e893c0068130,tornadowarning.id,premium,,,62,2,15,,,
-49c54902-8ddc-42d3-9bff-60483a189ba6,terminal.id,resell,,,104,36,8,PT Registrasi Nama Domain,17/08/2018 08:49,17/08/2026 23:59
+49c54902-8ddc-42d3-9bff-60483a189ba6,terminal.id,resell,,,104,37,8,PT Registrasi Nama Domain,17/08/2018 08:49,17/08/2026 23:59
 c470cb6f-f12e-4c1b-96d5-52d110304abb,Czechoslovakia.id,premium,,,58,3,14,,,
 2b70f360-5b28-4cf4-920c-c36c31a7faed,screwabout.id,premium,,,,1,11,,,
 a4302001-d602-45c1-a33c-e793c6a8cf63,blurry.id,premium,,,62,10,6,,,
@@ -3239,7 +3239,7 @@ bb79e1fb-ac49-4e0a-82ef-ab50b2e456c9,respectfully.id,premium,,,62,4,12,,,
 91ec41db-8b1c-47e9-a038-987df87af75b,unhappiness.id,premium,,,,1,11,,,
 fd0fdede-134f-4706-b57e-9cd78cdf79c1,bared.id,premium,,,54,3,5,,,
 f139b725-b707-4df3-a20e-ca3dbf64f1de,discdrive.id,premium,,,72,1,10,,,
-04e2194e-3201-42da-95da-a2d302823f70,daily.id,resell,,,74,40,5,PT Aksara Data Digital,25/12/2023 00:08,25/12/2026 23:59
+04e2194e-3201-42da-95da-a2d302823f70,daily.id,resell,,,74,39,5,PT Aksara Data Digital,25/12/2023 00:08,25/12/2026 23:59
 9cafcb24-9d24-4e94-acc4-ea597c16c420,capitalism.id,premium,,,68,13,10,,,
 4d2a046a-6846-4b4c-abd7-e2cae65d61a8,jock.id,premium,,,84,11,4,,,
 154dc5a9-ffde-46a5-a90c-defbed6f9f0a,thermal.id,resell,,,60,25,7,PT Jagat Informasi Solusi (int),06/09/2025 10:07,06/09/2027 23:59
@@ -3329,7 +3329,7 @@ ef1b2a7b-0680-49cf-a0df-5c4d0890c31e,indiana.id,resell,,,62,21,7,PT Registrasi N
 715da5c4-6e62-4913-83af-e3ca18f505c3,acknowledge.id,premium,,,74,6,11,,,
 8e12cd9a-e5b8-432c-ac6f-e3dcb15e1999,pies.id,premium,,,58,9,4,,,
 1a44fcf4-3381-4ddb-8b35-4000ab4e0246,velocity.id,resell,,,70,37,8,PT Jagat Informasi Solusi (int),06/08/2022 00:05,06/08/2026 23:59
-c98ff9a1-4cd0-41a7-8ee8-29bfffd493b8,sly.id,premium,1560,22.75,60,19,3,namecheap,,
+c98ff9a1-4cd0-41a7-8ee8-29bfffd493b8,sly.id,premium,1560,22.75,60,18,3,namecheap,,
 f1cde0f1-5a6e-44f6-89d5-bdbb41a7a0d3,outofaction.id,premium,,,,1,13,,,
 40a16b5e-1037-48d0-a615-025f2c972b78,accountability.id,premium,,,74,16,14,,,
 08f1ae0e-5c38-41ce-9079-e12d61b0eb11,blacktea.id,premium,,,70,5,9,,,
@@ -3403,7 +3403,7 @@ b06a77bc-7a27-4d28-99a8-650bbe1fcbbc,busy.id,premium,,,108,24,4,,,
 7f0ff598-3932-4cf0-ab73-9766d5fcb555,lookthrough.id,premium,,,76,3,12,,,
 c91c0716-7fb0-4e2c-aabd-c68be7bab71a,ate.id,premium,,,78,16,3,,,
 45cc98e4-21f6-4ff1-bc83-0e6487b803f3,babybottle.id,premium,,,70,2,11,,,
-85b6cc48-8d2a-486a-9b94-4ce24077dd8b,dirty.id,premium,,,92,24,5,,,
+85b6cc48-8d2a-486a-9b94-4ce24077dd8b,dirty.id,premium,,,92,26,5,,,
 b62fafca-d647-4dc5-83f7-1737bbb96fd5,include.id,premium,,,99,11,7,,,
 96c94c53-356f-4312-b3a5-40d8a9590440,Barbiepink.id,premium,,,80,2,11,,,
 ca1adc95-fe2b-4e77-943e-3327062830b0,friendship.id,premium,,,76,22,10,,,
@@ -3643,7 +3643,7 @@ f8ca4c52-3fdb-4a60-9ed2-0a9b66523cef,region.id,resell,,,70,19,6,PT Aksara Data D
 1072183f-ebe1-406f-8437-3216abb695f5,naturewriting.id,premium,,,,2,14,,,
 7a733b56-41c3-44c3-9b98-987571a5b79b,chiefjustice.id,premium,,,68,1,13,,,
 ef7c796d-d136-4b10-b7d9-33e3c37a595a,congrats.id,premium,,,96,7,8,,,
-c471d90f-98c6-417c-839e-e18f76c6e620,coordinate.id,available,25.98,,108,18,10,namecheap,,
+c471d90f-98c6-417c-839e-e18f76c6e620,coordinate.id,available,25.98,,108,19,10,namecheap,,
 3885f658-7087-40d2-9561-e596b37c3f98,ageing.id,available,25.98,,86,5,6,namecheap,,
 324e676a-89e9-472e-8d3e-c3d1dd5c612e,sue.id,resell,,,74,16,3,PANDI Registrar,06/02/2023 06:56,06/02/2027 23:59
 a5d3be1e-b887-4d63-b8b2-d0c3907e9dc1,challenge.id,resell,,,86,25,9,PT Digital Registra Indonesia,17/12/2023 00:05,17/12/2026 23:59
@@ -3711,7 +3711,7 @@ eb6a6995-62f4-41a6-ac47-8ca203170d3a,twenty.id,premium,,,80,14,6,,,
 be291ae7-f043-44f4-b26c-8d4c4138476d,mahfucker.id,premium,,,62,1,9,,,
 788e5823-e846-4ce6-90be-06def76ace78,grandmotherinlaw.id,premium,,,80,1,18,,,
 fa9f968b-d8ba-4dd2-a269-9cb17aaae1e8,leavethedooropen.id,premium,,,80,1,19,,,
-1c12fdf1-b6cf-4590-9d60-254ff229bfba,planted.id,available,25.98,,68,10,7,namecheap,,
+1c12fdf1-b6cf-4590-9d60-254ff229bfba,planted.id,available,25.98,,68,11,7,namecheap,,
 721fd3c1-d595-437a-bc3c-76103819c372,FrenchRepublic.id,premium,,,62,2,15,,,
 ca7bfdf3-eb83-4a17-8c67-34fdecb83354,pandora.id,resell,,,78,37,7,PT Digital Registra Indonesia,28/11/2024 01:00,28/11/2026 23:59
 8b182594-b6fa-4b10-bd23-ca694c6112da,whitevinegar.id,premium,,,,2,13,,,
@@ -3743,7 +3743,7 @@ e81d9deb-13a3-4c70-a00b-baa96090b3fb,childsexabuse.id,premium,,,52,2,15,,,
 260e1acd-358a-4b4b-b12e-05cc4776173f,proper.id,resell,,,71,35,6,PT Jagat Informasi Solusi (int),08/08/2020 00:14,08/08/2026 23:59
 5ea5ce66-f263-424f-896a-3b1c7fc62188,fond.id,premium,221,22.75,116,15,4,namecheap,,
 7cac5f5d-b19f-49a7-b953-36577c385076,introduction.id,premium,,,78,6,12,,,
-42cddd78-a0df-4787-9627-7f4503c7d23f,scornful.id,available,25.98,,50,1,8,namecheap,,
+42cddd78-a0df-4787-9627-7f4503c7d23f,scornful.id,available,25.98,,50,2,8,namecheap,,
 9f7c3362-cf2f-4d3d-9628-59cf7632d03f,necessary.id,premium,,,66,9,9,,,
 30b613dd-5cca-4ec0-98c0-3267c2191d39,organizations.id,premium,,,,5,13,,,
 ebcab5a3-7f25-4a88-907b-e73528857207,allseasontire.id,premium,,,76,1,15,,,
@@ -3832,7 +3832,7 @@ ed33de23-4302-4ea7-a522-6480f2d10120,Martha.id,premium,,,88,11,6,,,
 baab650c-9689-4ecb-8273-4b610b6cd12e,congestion.id,premium,,,60,5,10,,,
 586d4624-37a6-44ce-a5b3-948b7f7eb2a7,romance.id,premium,,,81,22,7,,,
 b0fe236d-efc7-4508-8aca-5c363aec230d,wire.id,premium,,,58,26,4,,,
-eee11827-6797-4999-90ce-5dc8a91bb759,common.id,resell,,,71,34,6,PT Jagat Informasi Solusi (int),10/09/2021 00:43,10/09/2026 23:59
+eee11827-6797-4999-90ce-5dc8a91bb759,common.id,resell,,,71,33,6,PT Jagat Informasi Solusi (int),10/09/2021 00:43,10/09/2026 23:59
 f5e98920-082c-47e7-a8b4-704279f893b2,sailorboy.id,premium,,,,1,10,,,
 16d758ab-ae42-49c9-91d7-ccfc7de97ef8,bro.id,premium,,,64,35,3,,,
 98a77a14-9086-4e4e-8619-f509e4f4dc72,gothere.id,premium,,,64,6,8,,,
@@ -3933,7 +3933,7 @@ c281fca1-0d6e-4d38-a7e1-2d9d5b633cb7,clothingbin.id,premium,,,64,1,12,,,
 4ddba5da-f5b5-4563-8e34-51872a2a3b1b,late.id,premium,,,76,98,4,,,
 c8d5efba-b8b9-4fd4-82c6-cb05cb63543a,monopoly.id,premium,,,64,17,8,,,
 d3815001-0ce1-4dec-b1b1-a265113d9eaa,wet.id,premium,,,84,23,3,,,
-52e967ba-e87b-413e-9cbd-aa8a6226e55e,criminal.id,resell,,,79,17,8,PT Core Mediatech,21/03/2016 05:05,21/03/2027 23:59
+52e967ba-e87b-413e-9cbd-aa8a6226e55e,criminal.id,resell,,,79,18,8,PT Core Mediatech,21/03/2016 05:05,21/03/2027 23:59
 542ae0e2-cfed-4b11-8102-4e72a36cc442,smooth.id,premium,,,122,20,6,,,
 84a2e995-8e80-4c9a-b4ec-66955f6e4c5e,shortfall.id,premium,,,66,3,9,,,
 d2e27d92-98ea-4672-a5ec-4115c6e4f509,grocerylist.id,premium,,,66,5,12,,,
@@ -3973,7 +3973,7 @@ dacf3bca-d283-4e57-90fc-b72b3ee14217,votingage.id,premium,,,,1,10,,,
 e5f20602-5786-445d-914b-0f4e06b14e0b,toy.id,resell,,,76,29,3,PANDI Registrar,06/02/2023 07:02,06/02/2027 23:59
 a64f2f0f-8187-40c6-a83c-7b11f526d750,givesomethingago.id,premium,,,72,1,19,,,
 eaa0cd59-0f91-403d-a28b-fcd07a2fcfaa,palestine.id,resell,,,59,93,9,PT Registrasi Nama Domain,20/06/2018 11:22,20/06/2026 23:59
-4763ed85-e028-4b3a-ac60-5e5747a82a96,sad.id,premium,1560,22.75,72,27,3,namecheap,,
+4763ed85-e028-4b3a-ac60-5e5747a82a96,sad.id,premium,1560,22.75,72,26,3,namecheap,,
 0bc43a32-098d-4ab1-8784-aab3be8c5d16,taxswap.id,premium,,,56,1,8,,,
 fd7244d4-9fef-470e-b4a7-797b824a8275,muchas.id,premium,,,58,2,7,,,
 dded0d46-6c87-4618-b573-31c6362c224e,bootleg.id,premium,,,100,11,7,,,
@@ -4161,7 +4161,7 @@ d9f5afb3-38fc-48fa-9c42-28bead6dc9e5,born.id,resell,,,116,23,4,PT Digital Regist
 da27687b-1735-494f-9f79-ce01442b11b0,getright.id,premium,,,75,8,9,,,
 de632383-b384-4180-82fe-425630466c60,suspense.id,premium,,,88,6,8,,,
 2fd1a3d3-0553-46aa-b7bf-6d2ef0ad369e,laws.id,premium,,,74,16,4,,,
-0aa09187-8d82-4a70-9f4f-b948c61dea01,handicap.id,available,25.98,,78,12,8,namecheap,,
+0aa09187-8d82-4a70-9f4f-b948c61dea01,handicap.id,available,25.98,,78,11,8,namecheap,,
 23e996a3-23db-4f41-beb9-b900e9132afd,fortyeight.id,premium,,,70,4,11,,,
 c8217cf2-6acb-4199-91ee-79bbc0c00cd0,francisca.id,premium,,,72,3,9,,,
 0a810266-6fa3-499d-9db5-8f0d343726e8,makemoney.id,premium,,,84,21,10,,,
@@ -4214,7 +4214,7 @@ d9d53c4c-bddc-4597-bc9d-1ea72437fefb,low.id,premium,1560,22.75,78,22,3,namecheap
 979208c5-d8d7-484f-91f1-450d76d3f4b4,older.id,available,25.98,,66,10,5,namecheap,,
 4c14882f-36b4-4347-9ea3-a2b9456a49d3,tons.id,premium,,,74,10,4,,,
 ad28eb96-9ce0-49c3-b9b9-f96194395597,leaveofabsence.id,premium,,,70,1,16,,,
-a141cc38-be25-43b9-8d33-bbbadd5d6ec9,designed.id,available,25.98,,64,14,8,namecheap,,
+a141cc38-be25-43b9-8d33-bbbadd5d6ec9,designed.id,available,25.98,,64,13,8,namecheap,,
 80a1043d-3a8f-4f04-9e7a-041b3f899df8,addicted.id,premium,,,72,12,8,,,
 d4d25c11-7193-4410-bc72-08314138037f,gutcheck.id,premium,,,64,5,9,,,
 b5e60ff0-d9bf-4d79-adb4-f5f976cbeed8,poolside.id,premium,,,94,13,8,,,
@@ -4461,7 +4461,7 @@ ad18d98f-8d9b-4083-a939-bd1fdd618218,trauma.id,resell,,,62,22,6,PT Jagat Informa
 83ec90d4-1dd9-4279-926e-87998e3b120f,chanukkah.id,premium,,,68,2,9,,,
 60d63b1f-b2ca-45a8-93e6-e15130930c32,ruboff.id,premium,,,,1,7,,,
 cdb761f7-1841-4205-b10d-84456b36e453,howlong.id,premium,,,54,4,8,,,
-91bbfcac-c654-439d-b3b1-a0e416ff068a,succinct.id,available,25.98,,69,9,8,namecheap,,
+91bbfcac-c654-439d-b3b1-a0e416ff068a,succinct.id,available,25.98,,69,8,8,namecheap,,
 4d816883-8313-4483-8c6d-e1d0a609eadd,againstallodds.id,premium,,,74,8,16,,,
 e7d6783b-a742-4b6e-811f-7b3f97e367ba,ontheroad.id,premium,,,,11,11,,,
 174d0054-b84a-4308-a45d-32df9ca137d1,bumpinto.id,premium,,,68,1,9,,,
