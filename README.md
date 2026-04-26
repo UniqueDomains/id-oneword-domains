@@ -1,22 +1,22 @@
-# Available .ID One-Word Domains (4,511)
+# Available .ID One-Word Domains (6,420)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-4%2C512%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-4%2C511%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C420%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .id one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .id one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **6,420 domains** on the canonical page below.
 
-**Public extract:** 4,512 rows · **Live catalog:** 4,511 domains
+**Public extract:** 1,000 rows · **Live catalog:** 6,420 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/id`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .ID one-word domain ca
 
 ### Files
 
-- `id.csv` — public CSV extract (4,512 rows)
-- `id.json` — public JSON extract (4,512 rows)
+- `id.csv` — public CSV extract (1,000 rows)
+- `id.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| seventeen.id | available | $25.98    | —             | 84             | 62     | 9      | namecheap                       |
-| boss.id      | resell    | —         | —             | 76             | 99     | 4      | PT Jagat Informasi Solusi (int) |
-| aaa.id       | premium   | $1,560    | $22.75        | 70             | 42     | 3      | namecheap                       |
-| wonder.id    | available | $25.98    | —             | 86             | 47     | 6      | namecheap                       |
-| prank.id     | resell    | —         | —             | 106            | 98     | 5      | PT Registrasi Nama Domain       |
-| goon.id      | premium   | $221      | $22.75        | 80             | 35     | 5      | namecheap                       |
-| death.id     | available | $25.98    | —             | 62             | 28     | 5      | namecheap                       |
-| blink.id     | resell    | —         | —             | 80             | 98     | 5      | PT Digital Registra Indonesia   |
-| odd.id       | premium   | $1,560    | $22.75        | 72             | 32     | 3      | namecheap                       |
-| feelgood.id  | available | $25.98    | —             | 82             | 27     | 9      | namecheap                       |
-| brave.id     | resell    | —         | —             | 76             | 98     | 5      | PT Digital Registra Indonesia   |
-| ten.id       | premium   | $1,560    | $22.75        | 88             | 31     | 3      | namecheap                       |
-| outlaw.id    | available | $25.98    | —             | 62             | 25     | 6      | namecheap                       |
-| can.id       | resell    | —         | —             | 68             | 98     | 3      | PT Jetcoms Netindo              |
-| sad.id       | premium   | $1,560    | $22.75        | 72             | 26     | 3      | namecheap                       |
-| silly.id     | available | $25.98    | —             | 82             | 23     | 5      | namecheap                       |
-| palestine.id | resell    | —         | —             | 59             | 93     | 9      | PT Registrasi Nama Domain       |
-| sum.id       | premium   | $1,560    | $22.75        | 66             | 26     | 3      | namecheap                       |
-| diligent.id  | available | $25.98    | —             | 68             | 20     | 8      | namecheap                       |
-| authentic.id | resell    | —         | —             | 76             | 83     | 9      | PT Jagat Informasi Solusi (int) |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
+| RedSox.id      | available | $25.98    | —             | 72             | 60     | 7      | namecheap                       |
+| NewZealand.id  | resell    | —         | —             | 78             | 94     | 11     | PT Registrasi Nama Domain       |
+| las.id         | premium   | $1,455.02 | $20.06        | 48             | 98     | 3      | namesilo                        |
+| echoes.id      | available | $17.99    | $20.75        | 56             | 24     | 6      | namesilo                        |
+| cars.id        | resell    | —         | —             | 66             | 47     | 4      | PT Jagat Informasi Solusi (int) |
+| Jim.id         | premium   | $1,680    | $24.50        | 78             | 28     | 3      | namecheap                       |
+| veterans.id    | available | $25.98    | —             | 56             | 23     | 8      | namecheap                       |
+| robots.id      | resell    | —         | —             | 62             | 47     | 6      | PT Jagat Informasi Solusi (int) |
+| dont.id        | premium   | $238      | $24.50        | 42             | 18     | 4      | namecheap                       |
+| unicorns.id    | available | $25.98    | —             | 73             | 21     | 8      | namecheap                       |
+| virtual.id     | resell    | —         | —             | 80             | 42     | 7      | PT Digital Registra Indonesia   |
+| hats.id        | premium   | $238      | $24.50        | 65             | 15     | 4      | namecheap                       |
+| mathematics.id | available | $25.98    | —             | 68             | 19     | 11     | namecheap                       |
+| solutions.id   | resell    | —         | —             | 56             | 31     | 9      | PT Registrasi Nama Domain       |
+| gets.id        | premium   | $238      | $24.50        | 60             | 15     | 4      | namecheap                       |
+| pools.id       | available | $25.98    | —             | 61             | 19     | 5      | namecheap                       |
+| stockmarket.id | resell    | —         | —             | 80             | 30     | 12     | PT Media Cloud Indonesia        |
+| buds.id        | premium   | $216.32   | $20.06        | 54             | 15     | 4      | namesilo                        |
+| orders.id      | available | $25.98    | —             | 60             | 19     | 6      | namecheap                       |
+| SanDiego.id    | resell    | —         | —             | 74             | 29     | 9      | PT Core Mediatech               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 4,512-row public sample | 4,511 live domains                               |
+| 1,000-row public sample | 6,420 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ID One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ID One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
