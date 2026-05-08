@@ -423,6 +423,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 30f031d3-7dca-4e74-bfe5-0ad5c34740a3,pullover.id,available,25.98,,74,4,9,namecheap,,
 30f13b76-2a58-46c1-a356-d9385182917c,overcasted.id,available,17.99,20.75,48,1,10,namesilo,,
 30f1bb70-b4a5-44cc-bf5b-f0774a46c6ad,teeheehee.id,available,25.98,,88,1,11,namecheap,,
+30fd12df-4256-43cd-a946-aecb8d2a1cce,sentence.id,available,17.99,20.75,74,8,8,namesilo,,
 3106cba7-3b91-4bb4-a325-acda2916908a,worldsapart.id,available,25.98,,64,3,12,namecheap,,
 31321729-e543-4e06-b10b-9f9b0210a839,companies.id,available,25.98,,62,16,9,namecheap,,
 314ca29c-79aa-4f8e-b49d-53e97c6ff339,IChing.id,available,25.98,,68,14,7,namecheap,,
@@ -444,6 +445,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 33235c7d-88c9-4691-8021-38da32a3b7b9,takeajoke.id,available,25.98,,76,1,11,namecheap,,
 33487efc-e1ad-4d5b-8018-a8080766534a,givethegreenlight.id,available,25.98,,54,1,20,namecheap,,
 335341b1-861a-4654-af54-8707e3593112,inspiteofoneself.id,available,25.98,,48,1,19,namecheap,,
+336171f7-6bff-4ae3-b76c-f94316d17066,lcd.id,premium,1455.02,20.06,76,12,3,namesilo,,
 336841b7-49ad-4dd2-b981-ebdb08105d89,expectedreturn.id,available,25.98,,48,2,15,namecheap,,
 33b072ff-863c-4b38-9d2f-23c55c19112d,underprotest.id,available,25.98,,30,1,13,namecheap,,
 33b0ae9f-7974-4b81-a37f-41c722f38284,operators.id,resell,,,52,13,9,PT Media Cloud Indonesia,08/12/2025 10:47,08/12/2026 23:59
@@ -498,6 +500,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3805dd08-174d-4238-bb86-48a888b3d399,birches.id,available,17.99,20.75,57,4,7,namesilo,,
 384099f4-b779-411c-85a2-28f12b3ee53b,spellingbook.id,available,25.98,,48,1,13,namecheap,,
 384ff023-9827-4963-9ff7-a13964cf68f2,GodtheHolyGhost.id,available,25.98,,58,1,18,namecheap,,
+38c8ffe4-26b5-42b6-9a3a-eaaa190e3b0a,involve.id,available,17.99,20.75,76,13,7,namesilo,,
 38d5cea5-8a62-4796-87d2-1ec29d2a0f8d,safest.id,available,17.99,20.75,64,9,6,namesilo,,
 38fe1fbc-c93f-49c0-9c26-44fd858768cc,subsidiaries.id,available,17.99,20.75,51,2,12,namesilo,,
 39038d4b-064a-4f6a-8941-b8b36dd7826e,slipthrough.id,available,25.98,,66,1,12,namecheap,,
@@ -836,6 +839,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5cb839a8-c8a1-4dc4-b4ed-f6006bab225e,fellowed.id,available,25.98,,52,1,8,namecheap,,
 5cf59648-ed0a-41ee-9c91-d472606acc95,justtheticket.id,available,25.98,,66,4,15,namecheap,,
 5d0a8e05-f66e-4b55-8532-fe5bc3792141,porkbacon.id,available,25.98,,58,1,10,namecheap,,
+5d11178b-6658-48d0-87dc-3cab860de20b,suck.id,premium,216.32,20.06,66,15,4,namesilo,,
 5d3ae775-d7e3-460b-85e3-ab52622ff018,setthescene.id,available,25.98,,68,3,13,namecheap,,
 5d4a7c8c-8a33-4e63-88b3-b3276cdb6351,photos.id,resell,,,54,28,6,PT Jagat Informasi Solusi (int),22/12/2021 00:07,22/12/2026 23:59
 5d4e06f8-5bc0-4153-802b-03c3ad9f9310,references.id,available,25.98,,58,9,10,namecheap,,
@@ -995,7 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6dd0b704-772c-4df5-8f67-ead663ba10b0,masterfile.id,available,25.98,,50,3,11,namecheap,,
 6ddb8acc-72b4-47cd-acb3-f9e3ac6413a9,thefactthat.id,available,25.98,,47,1,13,namecheap,,
 6de748eb-1d83-41a5-8bb0-8046ac3115a6,waited.id,available,25.98,,58,3,6,namecheap,,
-6debe9a0-35f9-4e43-94a9-9f876b0482df,joiningin.id,available,25.98,,52,2,10,namecheap,,
-6e23ece6-e3bd-402c-9185-1bfa63ed3304,grandfathers.id,available,17.99,20.75,68,3,12,namesilo,,
-6e3689da-4290-498c-9089-8285523dc5c2,placeupon.id,available,25.98,,48,1,10,namecheap,,
-6e3732df-a494-4535-b8d9-4149453b7c7d,voices.id,resell,,,60,19,6,PT Core Mediatech,16/04/2020 03:12,16/04/2027 23:59
