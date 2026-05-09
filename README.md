@@ -1,10 +1,10 @@
-# Available .ID One-Word Domains (6,905)
+# Available .ID One-Word Domains (6,924)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C905%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C924%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .id one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,905 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **6,924 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 6,905 domains · **Median ask:** $45.47 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 6,924 domains · **Median ask:** $46.74 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-08  
+**Last updated:** 2026-05-09  
 **Canonical page:** `https://unique.domains/domains/tld/id`  
 **Best for:** founders, investors, studios
 
@@ -75,8 +75,6 @@ print(df.head())
 | FabFour.id    | available | $17.99    | $20.75        | 82             | 3      | 8      | namesilo                      |
 | headout.id    | available | $25.98    | —             | 82             | 6      | 8      | namecheap                     |
 | dogstail.id   | available | $25.98    | —             | 94             | 1      | 8      | namecheap                     |
-| flaxseed.id   | available | $25.98    | —             | 80             | 4      | 9      | namecheap                     |
-| getjiggy.id   | available | $25.98    | —             | 80             | 2      | 9      | namecheap                     |
 | RedSox.id     | available | $25.98    | —             | 72             | 60     | 7      | namecheap                     |
 | NewZealand.id | resell    | —         | —             | 78             | 94     | 11     | PT Registrasi Nama Domain     |
 | task.id       | premium   | $216.32   | $20.06        | 78             | 37     | 4      | namesilo                      |
@@ -84,6 +82,8 @@ print(df.head())
 | virtual.id    | resell    | —         | —             | 80             | 42     | 7      | PT Digital Registra Indonesia |
 | cams.id       | premium   | $216.32   | $20.06        | 52             | 29     | 4      | namesilo                      |
 | veterans.id   | available | $25.98    | —             | 56             | 23     | 8      | namecheap                     |
+| solutions.id  | resell    | —         | —             | 56             | 31     | 9      | PT Registrasi Nama Domain     |
+| Jim.id        | premium   | $1,680    | $24.50        | 78             | 28     | 3      | namecheap                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 6,905 live domains                         |
+| 1,000-row public sample | 6,924 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ID One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ID One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
