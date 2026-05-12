@@ -78,11 +78,11 @@ print(df.head())
 | dogstail.id   | available | $25.98    | —             | 94             | 1      | 8      | namecheap                     |
 | RedSox.id     | available | $25.98    | —             | 72             | 60     | 7      | namecheap                     |
 | NewZealand.id | resell    | —         | —             | 78             | 94     | 11     | PT Registrasi Nama Domain     |
-| task.id       | premium   | $216.32   | $20.06        | 78             | 37     | 4      | namesilo                      |
-| echoes.id     | available | $17.99    | $20.75        | 56             | 24     | 6      | namesilo                      |
-| virtual.id    | resell    | —         | —             | 80             | 42     | 7      | PT Digital Registra Indonesia |
 | cams.id       | premium   | $216.32   | $20.06        | 52             | 29     | 4      | namesilo                      |
 | veterans.id   | available | $25.98    | —             | 56             | 23     | 8      | namecheap                     |
+| virtual.id    | resell    | —         | —             | 80             | 42     | 7      | PT Digital Registra Indonesia |
+| Jim.id        | premium   | $1,680    | $24.50        | 78             | 28     | 3      | namecheap                     |
+| outcome.id    | available | $17.99    | $20.75        | 74             | 21     | 7      | namesilo                      |
 | solutions.id  | resell    | —         | —             | 56             | 31     | 9      | PT Registrasi Nama Domain     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.

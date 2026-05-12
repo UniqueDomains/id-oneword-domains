@@ -98,6 +98,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0b55e37e-99eb-4977-b790-0d32c161027c,demoted.id,available,17.99,20.75,46,1,7,namesilo,,
 0b663868-61e2-4198-a957-1c8a52c56024,barup.id,available,25.98,,82,2,6,namecheap,,
 0b946323-9e32-4e9b-a702-8abd7d0ef438,sameoldstuff.id,available,25.98,,34,1,14,namecheap,,
+0ba549a1-2f60-43ba-9669-2155eb9c5d64,several.id,available,17.99,20.75,84,9,7,namesilo,,
 0bb124d1-e396-4e42-bd55-e0cc7eaaa98b,Frenchparsley.id,available,25.98,,66,1,14,namecheap,,
 0bb3869e-7564-4508-b74b-c970322b02e4,conductcode.id,available,25.98,,50,1,12,namecheap,,
 0bdb3940-e9b6-4035-b7f3-503a72a2e098,haveityourownway.id,available,25.98,,50,1,20,namecheap,,
@@ -667,6 +668,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4806d1bb-ccf4-4ecb-9cc1-4b13daefb2a4,woodentruss.id,available,25.98,,56,1,12,namecheap,,
 4824cb1d-1d94-4cb8-ba5d-3757535d1e78,overeasy.id,available,25.98,,68,8,9,namecheap,,
 48271233-08f3-4b1c-8854-ae990824804b,cheesedown.id,available,25.98,,62,0,11,namecheap,,
+482b9d79-571f-4f3d-ac91-2fd5813a30f6,happybirthday.id,resell,,,92,18,14,PT Jagat Informasi Solusi (int),12/11/2024 00:16,12/11/2026 23:59
 48424550-cb0b-4500-b152-ef3df9b0c40e,studs.id,available,25.98,,69,7,5,namecheap,,
 4860e6e1-9894-402f-8fe1-994e151e3c54,Ihaveafever.id,available,25.98,,50,1,14,namecheap,,
 488b429b-aa75-4bd8-a8a8-87189afd666a,toboggans.id,available,25.98,,59,1,9,namecheap,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6c9f9d21-06f1-41ba-a974-163a5244d903,IsleofWightCounty.id,available,25.98,,52,2,20,namecheap,,
 6cfe9204-f1aa-4e39-ba0b-b9e9acd0b0d4,inunison.id,available,25.98,,72,4,9,namecheap,,
 6d1e3905-5377-4fea-910a-7beadfe30ed0,SouthTyrol.id,available,25.98,,66,6,11,namecheap,,
-6d224e5a-ee69-4042-84aa-867e22b5c95d,task.id,premium,216.32,20.06,78,37,4,namesilo,,
-6d244666-d586-436a-b61f-043d86d0aa3f,echoes.id,available,17.99,20.75,56,24,6,namesilo,,
