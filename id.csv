@@ -53,7 +53,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0700484f-c9d1-499c-b857-5566f2e1e3bc,territory.id,available,17.99,20.75,74,19,9,namesilo,,
 07140fa3-54ef-4255-b9d5-9b6b09db1056,transmitted.id,available,25.98,,64,1,11,namecheap,,
 072b9d43-317c-464a-b87c-b497c78f8ef0,WorldWarIV.id,available,25.98,,52,1,12,namecheap,,
-07476a42-107f-4afd-93bd-56ddb38ecf9d,NewZealand.id,resell,,,78,94,11,PT Registrasi Nama Domain,29/11/2023 10:43,29/11/2026 23:59
+07476a42-107f-4afd-93bd-56ddb38ecf9d,NewZealand.id,resell,,,78,98,11,PT Registrasi Nama Domain,29/11/2023 10:43,29/11/2026 23:59
 0751c132-ad34-4be6-9f0b-9ef26a5a0285,aspertheusual.id,available,25.98,,40,1,16,namecheap,,
 07527a5a-e17e-4189-a5f4-80957763f4e9,redial.id,available,25.98,,71,6,6,namecheap,,
 07c5a836-ed29-4f71-9b8b-580bf39e5237,moustaches.id,available,17.99,20.75,53,3,10,namesilo,,
@@ -741,7 +741,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 511fa8cf-e89a-4892-9152-d595653337c5,makethenews.id,available,25.98,,72,2,13,namecheap,,
 513ca582-ee1d-478c-bbd2-98a98d9e7e9b,letpast.id,available,25.98,,75,1,8,namecheap,,
 51575e77-0b38-426d-a162-f5a7492c979f,derive.id,available,17.99,20.75,72,14,6,namesilo,,
-5169f40f-1bcb-437c-add5-f983284ce0c5,virtual.id,resell,,,80,42,7,PT Digital Registra Indonesia,13/06/2014 09:17,13/06/2028 23:59
+5169f40f-1bcb-437c-add5-f983284ce0c5,virtual.id,resell,,,80,43,7,PT Digital Registra Indonesia,13/06/2014 09:17,13/06/2028 23:59
 517e96df-8d70-49b7-81dc-ad50501a06dc,dowell.id,available,25.98,,76,12,7,namecheap,,
 518d3898-bfc1-43ce-b0d1-1dc8c2263e0e,BlackWallStreet.id,available,17.99,20.75,44,9,17,namesilo,,
 51bba5cb-307b-4f91-9718-b5e9ec4ab57d,sexualassault.id,available,25.98,,43,3,14,namecheap,,
@@ -960,6 +960,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 689e99c1-df18-4d63-9bf3-530600322b39,Germanfries.id,available,17.99,20.75,82,1,12,namesilo,,
 69096bf1-97f7-4d00-9b8f-a637cb51f985,publictransit.id,available,25.98,,66,3,14,namecheap,,
 693498d0-5f60-4b94-a319-4ab0bd1bae5c,manysidedness.id,available,25.98,,64,1,14,namecheap,,
+6936bc7a-7210-4dfd-b507-5c967425a723,SouthAfrica.id,premium,,,66,97,12,,,
 694701e4-2751-47a6-98ad-08b2fcf92cda,dropahint.id,available,25.98,,78,1,11,namecheap,,
 6948abed-6944-4efe-b67c-c6ae605f7e18,gonegative.id,available,25.98,,66,1,11,namecheap,,
 69507439-cbba-401a-ad05-81322a81deb9,elephants.id,available,25.98,,68,9,9,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6c8958cb-c4c9-4783-9323-f7c9607f8516,rumcake.id,available,25.98,,81,3,8,namecheap,,
 6c9f9d21-06f1-41ba-a974-163a5244d903,IsleofWightCounty.id,available,25.98,,52,2,20,namecheap,,
 6cfe9204-f1aa-4e39-ba0b-b9e9acd0b0d4,inunison.id,available,25.98,,72,4,9,namecheap,,
-6d1e3905-5377-4fea-910a-7beadfe30ed0,SouthTyrol.id,available,25.98,,66,6,11,namecheap,,
