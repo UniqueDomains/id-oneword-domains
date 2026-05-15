@@ -548,6 +548,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3b28e09e-3b28-4658-8a17-f87f8150dc88,precursors.id,available,25.98,,50,2,10,namecheap,,
 3b32c446-da15-4c4d-bf95-1bf9b2044832,thereyougo.id,available,25.98,,56,2,12,namecheap,,
 3b5ba12f-3657-4cb4-b96b-9fe68b6ab93b,turninto.id,available,25.98,,86,2,9,namecheap,,
+3b76f829-c92a-45f1-91f3-f5e85569d59c,families.id,available,17.99,20.75,58,13,8,namesilo,,
 3b771f02-6bb8-4e0e-90f5-00a9aa218aef,reckoned.id,available,25.98,,50,1,8,namecheap,,
 3bb1780e-2cc7-40e8-8cb8-961771437d79,queried.id,available,25.98,,57,2,7,namecheap,,
 3bbdf421-fe68-495d-bcfb-8ffd44dce9c1,makenews.id,available,25.98,,80,1,9,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6c5b79a1-44f8-4b55-8a30-142a1ab8c83e,sandals.id,available,25.98,,66,12,7,namecheap,,
 6c8958cb-c4c9-4783-9323-f7c9607f8516,rumcake.id,available,25.98,,81,3,8,namecheap,,
 6c9f9d21-06f1-41ba-a974-163a5244d903,IsleofWightCounty.id,available,25.98,,52,2,20,namecheap,,
-6cfe9204-f1aa-4e39-ba0b-b9e9acd0b0d4,inunison.id,available,25.98,,72,4,9,namecheap,,
