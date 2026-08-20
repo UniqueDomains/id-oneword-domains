@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .id one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,580 domains · **Median ask:** $64.65 · **High-demand under $2,500:** 12
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/id`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| bad.id   | premium   | $1,455.02 | $20.06        | high           | medium | 3      | namesilo                        |
-| great.id | resell    | —         | —             | high           | low    | 5      | PT Jagat Informasi Solusi (int) |
 | acids.id | available | $17.99    | $20.75        | medium         | low    | 5      | namesilo                        |
 | boy.id   | resell    | —         | —             | medium         | low    | 3      | PT Jetcoms Netindo              |
 | ana.id   | premium   | $1,455.02 | $20.06        | high           | low    | 3      | namesilo                        |
@@ -74,6 +72,7 @@ print(df.head())
 | are.id   | premium   | $1,560    | $22.75        | high           | low    | 3      | namecheap                       |
 | alone.id | available | $17.99    | $20.75        | high           | low    | 5      | namesilo                        |
 | sea.id   | resell    | —         | —             | high           | low    | 3      | PT Jetcoms Netindo              |
+| bad.id   | premium   | $1,455.02 | $20.06        | high           | medium | 3      | namesilo                        |
 | bathe.id | available | $17.99    | $20.75        | high           | low    | 5      | namesilo                        |
 | spf.id   | resell    | —         | —             | high           | low    | 3      | PANDI Registrar                 |
 | bra.id   | premium   | $1,455.02 | $20.06        | medium         | low    | 3      | namesilo                        |
@@ -84,6 +83,7 @@ print(df.head())
 | you.id   | resell    | —         | —             | high           | medium | 3      | PT Cloud Hosting Indonesia      |
 | cot.id   | premium   | $1,455.02 | $20.06        | high           | low    | 3      | namesilo                        |
 | death.id | available | $25.98    | —             | medium         | low    | 5      | namecheap                       |
+| bang.id  | resell    | —         | —             | high           | low    | 4      | PT Jagat Informasi Solusi (int) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ID One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ID One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
