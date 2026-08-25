@@ -514,7 +514,7 @@ c9408917-5c89-4b6b-9072-e34395c2a6e3,setanexample.id,available,25.98,,medium,low
 8c20c8bf-b007-4054-bd72-7b749b8fed45,butthen.id,available,17.99,20.75,medium,low,8,namesilo,,
 ee30e03f-eed6-46bf-8005-f39603d325a9,lover.id,resell,,,high,low,5,PT Jagat Informasi Solusi (int),25/10/2018 21:51,25/10/2026 23:59
 d7e2d672-478f-4019-b2f9-b108670678b8,fleet.id,resell,,,medium,medium,5,PT Jagat Informasi Solusi (int),20/11/2019 08:24,20/11/2026 23:59
-0c28952a-df69-4bd5-8b47-56ecd2f8cca0,grey.id,premium,436.48,20.06,medium,low,4,namesilo,,
+0c28952a-df69-4bd5-8b47-56ecd2f8cca0,grey.id,available,14.19,20.75,medium,low,4,namesilo,,
 818f357f-e227-4f94-8b8e-d8a76a3b4059,proven.id,resell,,,high,low,6,PT Jagat Informasi Solusi (int),26/07/2023 00:52,26/07/2026 23:59
 26365c83-f201-4fcd-a5d0-b487e648bcc0,whole.id,premium,249.6,20.06,high,low,5,namesilo,,
 00c980c4-2e23-4ba0-b3bc-1f39ecf2bb29,antiac.id,available,25.98,,high,low,8,namecheap,,
@@ -592,7 +592,7 @@ c6422359-2875-41b9-ac0f-5c37c7f2411b,economically.id,available,17.99,20.75,mediu
 af6ad3e5-9e28-4fac-bb5c-9c3195bbfb0b,wellbehaved.id,available,25.98,,low,low,12,namecheap,,
 7db26e4a-2a61-4b5c-8ee0-d61556f2992b,generaldisease.id,available,17.99,20.75,medium,low,15,namesilo,,
 5a7b397b-bef1-49db-a4b1-1f604ca5e06c,crimes.id,available,25.98,,medium,low,6,namecheap,,
-d30ce130-fc1f-446f-89e3-210d4df6acac,letterspatent.id,available,17.99,20.75,medium,low,14,namesilo,,
+d30ce130-fc1f-446f-89e3-210d4df6acac,letterspatent.id,available,14.19,20.75,low,low,14,namesilo,,
 3f7da6d0-6bd4-4e33-9fae-9e87e959e9a6,augmented.id,resell,,,medium,low,9,PT Jagat Informasi Solusi (int),25/02/2024 00:47,25/02/2027 23:59
 8948d1a3-82aa-460c-a2db-27e8ebe01320,sing.id,premium,432.64,20.06,high,low,4,namesilo,,
 0e7408b9-ebd1-4eef-a21f-42bb2945546c,port.id,resell,,,medium,low,4,PT Jagat Informasi Solusi (int),26/07/2023 05:04,26/07/2026 23:59
@@ -926,7 +926,7 @@ e7f198d2-4084-4d2b-bd79-fab46b614fd5,condensedmilk.id,available,17.99,20.75,high
 ec7b3f36-1529-46f3-87bd-0fc080b056f6,allocate.id,available,17.99,20.75,high,low,8,namesilo,,
 b4e703a3-0136-4121-8f42-a07406502242,whitesatin.id,available,17.99,20.75,low,low,11,namesilo,,
 68ffbedb-6991-49f9-a956-dd18dc63278d,wideopen.id,available,17.99,20.75,medium,low,9,namesilo,,
-b265be1a-a525-4bc0-aafc-28f2d7f7c3c5,junction.id,available,17.99,20.75,medium,low,8,namesilo,,
+b265be1a-a525-4bc0-aafc-28f2d7f7c3c5,junction.id,available,22.98,25.98,low,low,8,namecheap,,
 ca0cb095-b77e-4fff-b5e6-b49a3f1764b8,bra.id,premium,1455.02,20.06,medium,low,3,namesilo,,
 a6cb3135-ca09-42bf-b559-238b3a7e175b,vie.id,premium,1455.02,20.06,high,low,3,namesilo,,
 91661fc9-a041-4599-819e-05528bc08b61,cone.id,premium,216.32,20.06,medium,low,4,namesilo,,
