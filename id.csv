@@ -320,7 +320,7 @@ f70838d3-eb13-4290-8328-5729ee1e06f9,entirety.id,available,17.99,20.75,high,low,
 8783f0ab-4844-45ab-89fc-3ecd7e20d929,morning.id,resell,,,high,low,7,PT Core Mediatech,21/03/2016 06:18,21/03/2027 23:59
 72e58c47-6dc2-42af-ba23-4569948fed46,rogue.id,resell,,,medium,low,5,PT Media Cloud Indonesia,01/03/2019 07:24,01/03/2027 23:59
 d25030f8-b45e-49d7-9b88-98e1622a8b82,vigor.id,resell,,,high,low,5,PT Registrasi Nama Domain,17/08/2025 01:08,17/08/2026 23:59
-a32a32ec-7098-45b5-a224-853bae9a6793,chambers.id,available,17.99,20.75,medium,low,8,namesilo,,
+a32a32ec-7098-45b5-a224-853bae9a6793,chambers.id,available,14.19,20.75,low,low,8,namesilo,,
 de3f3596-e767-4160-b5d6-415412174421,negotiate.id,available,,,high,low,9,,,
 dc1eb414-730a-47df-a689-5261b2195aeb,blueish.id,available,17.99,20.75,high,low,7,namesilo,,
 19cad94d-349e-49c5-969b-6cf123fea67d,omen.id,premium,216.32,20.06,high,low,4,namesilo,,
@@ -514,7 +514,7 @@ c9408917-5c89-4b6b-9072-e34395c2a6e3,setanexample.id,available,25.98,,medium,low
 8c20c8bf-b007-4054-bd72-7b749b8fed45,butthen.id,available,17.99,20.75,medium,low,8,namesilo,,
 ee30e03f-eed6-46bf-8005-f39603d325a9,lover.id,resell,,,high,low,5,PT Jagat Informasi Solusi (int),25/10/2018 21:51,25/10/2026 23:59
 d7e2d672-478f-4019-b2f9-b108670678b8,fleet.id,resell,,,medium,medium,5,PT Jagat Informasi Solusi (int),20/11/2019 08:24,20/11/2026 23:59
-0c28952a-df69-4bd5-8b47-56ecd2f8cca0,grey.id,available,14.19,20.75,medium,low,4,namesilo,,
+0c28952a-df69-4bd5-8b47-56ecd2f8cca0,grey.id,premium,436.48,20.06,medium,low,4,namesilo,,
 818f357f-e227-4f94-8b8e-d8a76a3b4059,proven.id,resell,,,high,low,6,PT Jagat Informasi Solusi (int),26/07/2023 00:52,26/07/2026 23:59
 26365c83-f201-4fcd-a5d0-b487e648bcc0,whole.id,premium,249.6,20.06,high,low,5,namesilo,,
 00c980c4-2e23-4ba0-b3bc-1f39ecf2bb29,antiac.id,available,25.98,,high,low,8,namecheap,,
@@ -566,7 +566,7 @@ a8064e3b-6d4b-46e4-a281-af77945fb7bb,oilpainting.id,available,17.99,20.75,medium
 b3171889-30d6-4d88-b20e-ce6bdf795001,domesticworker.id,available,25.98,,high,low,15,namecheap,,
 19dac488-35e8-4b26-a646-61cd451b803e,locally.id,available,25.98,,medium,low,7,namecheap,,
 0c0f759f-f685-4511-949d-58e883ef19f0,boxing.id,available,,,high,low,6,,,
-d7be36be-95e4-407c-8313-f5e86c6dad81,economy.id,resell,,,high,low,7,PT Registrasi Nama Domain,10/07/2016 03:30,10/07/2026 23:59
+d7be36be-95e4-407c-8313-f5e86c6dad81,economy.id,resell,,,medium,low,7,PT Core Mediatech,10/07/2016 03:30,10/07/2027 23:59
 edbc71e0-fb11-4e31-afbe-90f543597ccb,sea.id,resell,,,high,low,3,PT Jetcoms Netindo,19/07/2017 06:53,19/07/2026 23:59
 0cb22d87-0ff7-4f16-b491-7a6884b395f5,college.id,resell,,,high,low,7,PT Jagat Informasi Solusi (int),31/10/2023 00:39,31/10/2026 23:59
 cad85ffd-5b89-44a1-8ae4-b967760f1a5b,immediate.id,premium,133.12,20.06,high,low,9,namesilo,,
@@ -926,7 +926,7 @@ e7f198d2-4084-4d2b-bd79-fab46b614fd5,condensedmilk.id,available,17.99,20.75,high
 ec7b3f36-1529-46f3-87bd-0fc080b056f6,allocate.id,available,17.99,20.75,high,low,8,namesilo,,
 b4e703a3-0136-4121-8f42-a07406502242,whitesatin.id,available,17.99,20.75,low,low,11,namesilo,,
 68ffbedb-6991-49f9-a956-dd18dc63278d,wideopen.id,available,17.99,20.75,medium,low,9,namesilo,,
-b265be1a-a525-4bc0-aafc-28f2d7f7c3c5,junction.id,available,22.98,25.98,low,low,8,namecheap,,
+b265be1a-a525-4bc0-aafc-28f2d7f7c3c5,junction.id,available,14.19,20.75,low,low,8,namesilo,,
 ca0cb095-b77e-4fff-b5e6-b49a3f1764b8,bra.id,premium,1455.02,20.06,medium,low,3,namesilo,,
 a6cb3135-ca09-42bf-b559-238b3a7e175b,vie.id,premium,1455.02,20.06,high,low,3,namesilo,,
 91661fc9-a041-4599-819e-05528bc08b61,cone.id,premium,216.32,20.06,medium,low,4,namesilo,,
