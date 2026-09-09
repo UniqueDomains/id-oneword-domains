@@ -283,7 +283,7 @@ e539ee07-cf74-4718-be14-67784b94e978,june.id,premium,216.32,20.06,high,low,4,nam
 a56ca5b4-9e8e-47ce-a3dc-fe0a3ff4f7e8,crash.id,premium,444.16,20.06,high,low,5,namesilo,,
 8fb73f5a-b4ed-4e65-983b-1bc638b20fa4,makeitbig.id,available,17.99,20.75,medium,low,11,namesilo,,
 ad0bbbd7-9eb9-42a1-8af3-a056f5875bdc,StCharles.id,available,17.99,20.75,medium,low,11,namesilo,,
-155c9aed-ea77-43db-8d1d-feccff5f511b,stove.id,available,14.19,20.75,low,low,5,namesilo,,
+155c9aed-ea77-43db-8d1d-feccff5f511b,stove.id,available,14.19,20.75,medium,low,5,namesilo,,
 2e0f6a4f-1476-4cae-a2a0-8d6af2225ebf,generalofthearmy.id,available,17.99,20.75,high,low,19,namesilo,,
 738d217c-8c3b-4115-a987-23b3a2d8b934,named.id,available,,,medium,low,5,,,
 84f209b2-b6ef-42fc-88e7-3d09459b8c89,burned.id,available,17.99,20.75,medium,low,6,namesilo,,
@@ -320,7 +320,7 @@ f70838d3-eb13-4290-8328-5729ee1e06f9,entirety.id,available,17.99,20.75,high,low,
 8783f0ab-4844-45ab-89fc-3ecd7e20d929,morning.id,resell,,,high,low,7,PT Core Mediatech,21/03/2016 06:18,21/03/2027 23:59
 72e58c47-6dc2-42af-ba23-4569948fed46,rogue.id,resell,,,medium,low,5,PT Media Cloud Indonesia,01/03/2019 07:24,01/03/2027 23:59
 d25030f8-b45e-49d7-9b88-98e1622a8b82,vigor.id,resell,,,high,low,5,PT Registrasi Nama Domain,17/08/2025 01:08,17/08/2026 23:59
-a32a32ec-7098-45b5-a224-853bae9a6793,chambers.id,available,14.19,20.75,low,low,8,namesilo,,
+a32a32ec-7098-45b5-a224-853bae9a6793,chambers.id,available,22.98,25.98,low,low,8,namecheap,,
 de3f3596-e767-4160-b5d6-415412174421,negotiate.id,available,,,high,low,9,,,
 dc1eb414-730a-47df-a689-5261b2195aeb,blueish.id,available,17.99,20.75,high,low,7,namesilo,,
 19cad94d-349e-49c5-969b-6cf123fea67d,omen.id,premium,216.32,20.06,high,low,4,namesilo,,
@@ -514,7 +514,7 @@ c9408917-5c89-4b6b-9072-e34395c2a6e3,setanexample.id,available,25.98,,medium,low
 8c20c8bf-b007-4054-bd72-7b749b8fed45,butthen.id,available,17.99,20.75,medium,low,8,namesilo,,
 ee30e03f-eed6-46bf-8005-f39603d325a9,lover.id,resell,,,high,low,5,PT Jagat Informasi Solusi (int),25/10/2018 21:51,25/10/2026 23:59
 d7e2d672-478f-4019-b2f9-b108670678b8,fleet.id,resell,,,medium,medium,5,PT Jagat Informasi Solusi (int),20/11/2019 08:24,20/11/2026 23:59
-0c28952a-df69-4bd5-8b47-56ecd2f8cca0,grey.id,premium,436.48,20.06,medium,low,4,namesilo,,
+0c28952a-df69-4bd5-8b47-56ecd2f8cca0,grey.id,available,14.19,20.75,medium,low,4,namesilo,,
 818f357f-e227-4f94-8b8e-d8a76a3b4059,proven.id,resell,,,high,low,6,PT Jagat Informasi Solusi (int),26/07/2023 00:52,26/07/2026 23:59
 26365c83-f201-4fcd-a5d0-b487e648bcc0,whole.id,premium,249.6,20.06,high,low,5,namesilo,,
 00c980c4-2e23-4ba0-b3bc-1f39ecf2bb29,antiac.id,available,25.98,,high,low,8,namecheap,,
@@ -836,7 +836,7 @@ b0f47e85-0f41-48c5-ac86-7fe82351103b,resignation.id,available,25.98,,medium,low,
 e55c275e-2db2-44f8-86ef-70dfca1f8b48,secondguess.id,available,17.99,20.75,medium,low,12,namesilo,,
 ef054119-cfac-4291-ad4b-32a5bc551b35,lightweight.id,available,17.99,20.75,high,low,11,namesilo,,
 e5213f0d-d57f-4e61-afc6-83f8678c9478,are.id,premium,1560,22.75,high,low,3,namecheap,,
-31a1cae9-421a-4ea1-a094-fbb03336c564,boxer.id,premium,560.64,20.06,high,low,5,namesilo,,
+31a1cae9-421a-4ea1-a094-fbb03336c564,boxer.id,premium,556.8,20.06,medium,low,5,namesilo,,
 0779279f-aec5-4035-a029-767ce9ac26cc,technically.id,available,17.99,20.75,medium,low,11,namesilo,,
 ab7f7423-51b1-46b5-b662-2d2f389a0289,Shrek.id,available,25.98,,high,medium,5,namecheap,,
 21d17e82-8a0b-4025-ad66-96acab478c3e,sportsdrink.id,available,17.99,20.75,high,low,12,namesilo,,
