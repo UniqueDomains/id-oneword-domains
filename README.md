@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .id one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 22,510 domains · **Median ask:** $48.55 · **High-demand under $2,500:** 16
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/id`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| grey.id  | available | $14.19    | $20.75        | medium         | low    | 4      | namesilo                        |
-| boy.id   | resell    | —         | —             | medium         | low    | 3      | PT Jetcoms Netindo              |
-| ana.id   | premium   | $1,455.02 | $20.06        | high           | low    | 3      | namesilo                        |
-| acids.id | available | $17.99    | $20.75        | medium         | low    | 5      | namesilo                        |
-| dot.id   | resell    | —         | —             | medium         | low    | 3      | PANDI Registrar                 |
-| are.id   | premium   | $1,560    | $22.75        | high           | low    | 3      | namecheap                       |
-| aftuh.id | available | $17.99    | $20.75        | medium         | low    | 5      | namesilo                        |
-| sea.id   | resell    | —         | —             | high           | low    | 3      | PT Jetcoms Netindo              |
-| bad.id   | premium   | $1,455.02 | $20.06        | high           | medium | 3      | namesilo                        |
-| alone.id | available | $17.99    | $20.75        | high           | low    | 5      | namesilo                        |
-| spf.id   | resell    | —         | —             | high           | low    | 3      | PANDI Registrar                 |
-| bra.id   | premium   | $1,455.02 | $20.06        | medium         | low    | 3      | namesilo                        |
-| bathe.id | available | $17.99    | $20.75        | high           | low    | 5      | namesilo                        |
-| xxi.id   | resell    | —         | —             | medium         | low    | 3      | PANDI Registrar                 |
-| con.id   | premium   | $1,560    | $22.75        | high           | low    | 3      | namecheap                       |
-| beads.id | available | $17.99    | $20.75        | high           | low    | 5      | namesilo                        |
-| you.id   | resell    | —         | —             | high           | medium | 3      | PT Cloud Hosting Indonesia      |
-| cot.id   | premium   | $1,455.02 | $20.06        | high           | low    | 3      | namesilo                        |
-| chore.id | available | $17.99    | $20.75        | high           | low    | 5      | namesilo                        |
-| bang.id  | resell    | —         | —             | high           | low    | 4      | PT Jagat Informasi Solusi (int) |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| fork.id  | available | $14.19    | $20.75        | medium         | low    | 4      | namesilo                   |
+| boy.id   | resell    | —         | —             | medium         | low    | 3      | PT Jetcoms Netindo         |
+| ana.id   | premium   | $1,455.02 | $20.06        | high           | low    | 3      | namesilo                   |
+| grey.id  | available | $14.19    | $20.75        | medium         | low    | 4      | namesilo                   |
+| dot.id   | resell    | —         | —             | medium         | low    | 3      | PANDI Registrar            |
+| are.id   | premium   | $1,560    | $22.75        | high           | low    | 3      | namecheap                  |
+| acids.id | available | $17.99    | $20.75        | low            | low    | 5      | namesilo                   |
+| sea.id   | resell    | —         | —             | high           | low    | 3      | PT Jetcoms Netindo         |
+| bad.id   | premium   | $1,451.03 | $20.06        | medium         | low    | 3      | namesilo                   |
+| aftuh.id | available | $17.99    | $20.75        | medium         | low    | 5      | namesilo                   |
+| spf.id   | resell    | —         | —             | medium         | low    | 3      | PANDI Registrar            |
+| bra.id   | premium   | $1,455.02 | $20.06        | medium         | low    | 3      | namesilo                   |
+| alone.id | available | $14.19    | $20.75        | low            | low    | 5      | namesilo                   |
+| xxi.id   | resell    | —         | —             | low            | low    | 3      | PANDI Registrar            |
+| con.id   | premium   | $1,560    | $22.75        | high           | low    | 3      | namecheap                  |
+| bathe.id | available | $17.99    | $20.75        | high           | low    | 5      | namesilo                   |
+| you.id   | resell    | —         | —             | high           | medium | 3      | PT Cloud Hosting Indonesia |
+| cot.id   | premium   | $1,455.02 | $20.06        | high           | low    | 3      | namesilo                   |
+| beads.id | available | $17.99    | $20.75        | high           | low    | 5      | namesilo                   |
+| bell.id  | resell    | —         | —             | high           | low    | 4      | PT Jetcoms Netindo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .ID One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .ID One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
