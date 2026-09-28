@@ -1,10 +1,10 @@
-# Available .ID One-Word Domains (15,590)
+# Available .ID One-Word Domains (15,887)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C590%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C887%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .id one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **15,590 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,887 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 15,590 domains · **Median ask:** $74.74 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 15,887 domains · **Median ask:** $76.61 · **High-demand under $2,500:** 16
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/id`
@@ -66,23 +66,23 @@ print(df.head())
 | -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
 | ccp.id   | available | $14.19    | $20.75        | medium         | low    | 3      | namesilo                        |
 | haste.id | resell    | $25.98    | —             | medium         | low    | 5      | namecheap                       |
-| ail.id   | premium   | $1,560    | $22.75        | medium         | low    | 3      | namecheap                       |
+| acm.id   | premium   | $1,310.30 | $19.41        | high           | low    | 3      | porkbun                         |
 | nfl.id   | available | $14.19    | $20.75        | high           | low    | 3      | namesilo                        |
 | eye.id   | resell    | —         | —             | high           | low    | 3      | PT Jetcoms Netindo              |
+| ail.id   | premium   | $1,560    | $22.75        | medium         | low    | 3      | namecheap                       |
+| rio.id   | available | $14.19    | $20.75        | high           | low    | 3      | namesilo                        |
+| now.id   | resell    | —         | —             | high           | medium | 3      | PT Jetcoms Netindo              |
 | ang.id   | premium   | $1,560    | $22.75        | high           | low    | 3      | namecheap                       |
 | iddm.id  | available | $14.19    | $20.75        | medium         | low    | 4      | namesilo                        |
-| now.id   | resell    | —         | —             | high           | medium | 3      | PT Jetcoms Netindo              |
+| alir.id  | resell    | —         | —             | medium         | low    | 4      | PANDI Registrar                 |
 | asp.id   | premium   | $1,451.03 | $20.06        | high           | low    | 3      | namesilo                        |
 | torn.id  | available | $14.19    | $20.75        | high           | low    | 4      | namesilo                        |
-| alir.id  | resell    | —         | —             | medium         | low    | 4      | PANDI Registrar                 |
+| bike.id  | resell    | —         | —             | high           | low    | 4      | PT Jagat Informasi Solusi (int) |
 | ate.id   | premium   | $1,455.02 | $20.06        | high           | low    | 3      | namesilo                        |
 | aback.id | available | $14.19    | $20.75        | high           | low    | 5      | namesilo                        |
-| bike.id  | resell    | —         | —             | high           | low    | 4      | PT Jagat Informasi Solusi (int) |
+| epic.id  | resell    | —         | —             | high           | medium | 4      | PT Media Cloud Indonesia        |
 | baa.id   | premium   | $1,451.03 | $20.06        | high           | low    | 3      | namesilo                        |
 | aleut.id | available | $14.19    | $20.75        | high           | low    | 5      | namesilo                        |
-| epic.id  | resell    | —         | —             | high           | medium | 4      | PT Media Cloud Indonesia        |
-| bbl.id   | premium   | $1,560    | $22.75        | high           | low    | 3      | namecheap                       |
-| aleve.id | available | $22.98    | $25.98        | medium         | low    | 5      | namecheap                       |
 | fort.id  | resell    | —         | —             | high           | low    | 4      | PT Jagat Informasi Solusi (int) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 15,590 live domains                        |
+| 1,000-row public sample | 15,887 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 15 high-demand names under $2,500          |
+| Basic exported fields   | 16 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
